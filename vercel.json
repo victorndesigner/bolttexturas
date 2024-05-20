@@ -1,0 +1,11 @@
+{
+    "rewrites": [
+      { "source": "/inicio", "destination": "/index.html" },
+      { "source": "/vantagens", "destination": "/vantagens.html" },
+      { "source": "/tutoriais", "destination": "/tutoriais.html" },
+      { "source": "/pngspacks", "destination": "/pngspacks.html" },
+      { "source": "/postagens", "destination": "/postagens.html" },
+      { "source": "/perfil", "destination": "/perfil.html" }
+    ]
+  }
+  
