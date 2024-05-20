@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rub:ital,wght@0,300..900;1,300..900&display=swap');
+
+  .searchDiv {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .searchDiv form {
+    display: flex;
+    align-items: center;
+  }
+
+  input[type="text"] {
+    width: calc(100% - 90px);
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #3b3b3b;
+    border-radius: 9px;
+    background-color: #252525;
+    color: #fff;
+  }
+
+  button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 27px;
+    background-color: #8500dd;
+    color: #fff;
+    cursor: pointer;
+  }

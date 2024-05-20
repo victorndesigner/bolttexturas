@@ -1,0 +1,55 @@
+.video-post {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.video-title {
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.video-container {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+}
+
+.responsive-video {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border: 2px solid #8500dd;
+    border-radius: 10px;
+}
+
+.play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: white;
+    cursor: pointer;
+    display: none;
+    z-index: 10;
+}
+
+.play-button:before {
+    content: '\25BA';
+}
+
+.video-container:hover .play-button {
+    display: none;
+}
+
+.responsive-video::-webkit-media-controls-play-button {
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .responsive-video {
+        max-width: 100%;
+    }
+}
