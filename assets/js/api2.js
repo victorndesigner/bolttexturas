@@ -2,35 +2,35 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.70.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER00.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://sysurl.com.br/RVVSTXTPC01",
+            mobile: "https://sysurl.com.br/RVVSTXTMOBA01"
         },
         {
             title: "MegaLite",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER01.png",
             steam: "https://sysurl.com.br/RVVMGLTPC01",
             mobile: "https://sysurl.com.br/RVVMGLTMOBA01"
         },
         {
             title: "MegaLite2",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER02.png",
             steam: "https://sysurl.com.br/RVVMGLT2PC01",
             mobile: "https://sysurl.com.br/RVVMGLT2MOBA01"
         },
         {
             title: "StumbleBolt",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER03.png",
             steam: "https://sysurl.com.br/RVVSTBPC01",
             mobile: "https://sysurl.com.br/RVVSTBMOBA01"
         },
         {
             title: "StumbleBolt2",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER04.png",
             steam: "https://sysurl.com.br/RVVSTB2PC01",
             mobile: "https://sysurl.com.br/RVVSTB2MOBA01"
@@ -51,7 +51,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER07.png",
             steam: "https://sysurl.com.br/RVVGOTIPC01",
             mobile: "https://sysurl.com.br/RVVGOTIMOBA01"
@@ -65,14 +65,14 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER09.png",
             steam: "https://sysurl.com.br/RVVMGLTREPC01",
             mobile: "https://sysurl.com.br/RVVMGLTREMOBA01"
         },
         {
             title: "Reshade",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER10.png",
             steam: "https://sysurl.com.br/RVVREPC01",
             mobile: "https://sysurl.com.br/RVVREMOBA01"
@@ -86,21 +86,21 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER12.png",
             steam: "https://sysurl.com.br/RVVBLTAPC01",
             mobile: "https://sysurl.com.br/RVVBLTAMOBA01"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER13.png",
             steam: "https://sysurl.com.br/RVVBAZPC01",
             mobile: "https://sysurl.com.br/RVVBAZMOBA01"
         },
         {
             title: "DarkUva",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/REVIVER14.png",
             steam: "https://sysurl.com.br/RVVDKUPCO1",
             mobile: "https://sysurl.com.br/RVVDKUMOBAO1"

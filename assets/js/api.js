@@ -2,28 +2,28 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             steam: "https://sysurl.com.br/MGLTPC01",
             mobile: "https://sysurl.com.br/MGLTMOBA1"
         },
         {
             title: "MegaLite2",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             steam: "https://sysurl.com.br/MGLT2PC01",
             mobile: "https://sysurl.com.br/MGLT2MOBA01"
         },
         {
             title: "StumbleBolt",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/STUMBLEBOLT.png",
             steam: "https://sysurl.com.br/STBPC01",
             mobile: "https://sysurl.com.br/STBMOBA01"
         },
         {
             title: "StumbleBolt2",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             steam: "https://sysurl.com.br/STB2PC01",
             mobile: "https://sysurl.com.br/STB2MOBA01"
@@ -44,7 +44,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/GOTIGREEN.png",
             steam: "https://sysurl.com.br/GOTIPC01",
             mobile: "https://sysurl.com.br/GOTIMOBA01"
@@ -58,14 +58,14 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             steam: "https://sysurl.com.br/MGLTREPC01",
             mobile: "https://sysurl.com.br/MGLTREMOBA01"
         },
         {
             title: "Reshade",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/RESHADER.png",
             steam: "https://sysurl.com.br/REPC01",
             mobile: "https://sysurl.com.br/REMOBA01"
@@ -79,21 +79,21 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/BOLTAGUA.png",
             steam: "https://sysurl.com.br/BLTAPC1",
             mobile: "https://sysurl.com.br/BLTAMOBA01"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/BOLTAXZZ.png",
             steam: "https://sysurl.com.br/BAZPC01",
             mobile: "https://sysurl.com.br/BAZMOBA01"
         },
         {
             title: "DarkUva",
-            version: "0.71.1",
+            version: "0.71.2",
             image: "assets/imagens/DARKUVA.png",
             steam: "https://sysurl.com.br/DKUPC01",
             mobile: "https://sysurl.com.br/DKUMOBA01"
