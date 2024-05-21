@@ -11,8 +11,8 @@ function getPosts() {
             title: "MegaLite",
             version: "0.71.2",
             image: "assets/imagens/REVIVER01.png",
-            steam: "https://sysurl.com.br/RVVMGLTPC01",
-            mobile: "https://sysurl.com.br/RVVMGLTMOBA01"
+            steam: "https://sysurl.com.br/RVVMGLTPC1",
+            mobile: "https://sysurl.com.br/RVVMGLTMOBA2"
         },
         {
             title: "MegaLite2",
