@@ -4,8 +4,8 @@ function getPosts() {
             title: "MegaLite",
             version: "0.71.2",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            steam: "https://sysurl.com.br/MGLTPC01",
-            mobile: "https://sysurl.com.br/MGLTMOBA1"
+            steam: "https://sysurl.com.br/MGLTPC2",
+            mobile: "https://sysurl.com.br/MGLTMOBA2"
         },
         {
             title: "MegaLite2",
