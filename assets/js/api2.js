@@ -88,8 +88,8 @@ function getPosts() {
             title: "BoltAgua",
             version: "0.71.2",
             image: "assets/imagens/REVIVER12.png",
-            steam: "https://sysurl.com.br/RVVBLTAPC01",
-            mobile: "https://sysurl.com.br/RVVBLTAMOBA01"
+            steam: "https://sysurl.com.br/RVVBLTAPC1",
+            mobile: "https://sysurl.com.br/RVVBLTAMOBA1"
         },
         {
             title: "BoltAstaxzz",
