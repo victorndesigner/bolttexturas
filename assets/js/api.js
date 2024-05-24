@@ -100,10 +100,10 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.60",
+            version: "0.71.5",
             image: "assets/imagens/BOLTWEEN.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://sysurl.com.br/WEENPC02",
+            mobile: "https://sysurl.com.br/WEENMOBA02"
         },
         {
             title: "Galaxy1",
