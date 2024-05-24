@@ -51,10 +51,10 @@ function getPosts() {
         },
         {
             title: "Yellow Otimizada",
-            version: "0.60",
+            version: "0.71.5",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://sysurl.com.br/YLWPC02",
+            mobile: "https://sysurl.com.br/YLWMOBA02"
         },
         {
             title: "MegaLite Reshade",
