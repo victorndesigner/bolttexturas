@@ -121,10 +121,10 @@ function getPosts() {
         },
         {
             title: "GalaxyBolt",
-            version: "0.60",
+            version: "0.71.5",
             image: "assets/imagens/REVIVER17.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://sysurl.com.br/RVVGLXBPC02",
+            mobile: "https://sysurl.com.br/RVVGLXBMOBA02"
         }
     ];
 };
