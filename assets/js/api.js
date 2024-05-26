@@ -9,10 +9,10 @@ function getPosts() {
         },
         {
             title: "MegaLite2",
-            version: "0.71.2",
+            version: "0.71.5",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
-            steam: "https://sysurl.com.br/MGLT2PC01",
-            mobile: "https://sysurl.com.br/MGLT2MOBA01"
+            steam: "https://sysurl.com.br/MGLT2PC02",
+            mobile: "https://sysurl.com.br/MGLT2MOBA02"
         },
         {
             title: "StumbleBolt",
