@@ -37,10 +37,10 @@ function getPosts() {
         },
         {
             title: "StumbleGodz",
-            version: "0.70.1",
+            version: "0.71.5",
             image: "assets/imagens/REVIVER05.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://sysurl.com.br/RVVSTBGPC02",
+            mobile: "https://sysurl.com.br/RVVSTBGMOBA02"
         },
         {
             title: "StumbleGodzEX",
