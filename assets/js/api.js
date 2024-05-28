@@ -107,10 +107,10 @@ function getPosts() {
         },
         {
             title: "Galaxy1",
-            version: "0.60",
+            version: "0.72",
             image: "assets/imagens/GALAXY1.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://sysurl.com.br/GLXKPC03",
+            mobile: "https://sysurl.com.br/GLXKMOBA03"
         },
         {
             title: "GalaxyBolt",
