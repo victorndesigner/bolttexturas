@@ -44,10 +44,10 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.71.5",
+            version: "0.72",
             image: "assets/imagens/GOTIGREEN.png",
-            steam: "https://sysurl.com.br/GOTIPC02",
-            mobile: "https://sysurl.com.br/GOTIMOBA02"
+            steam: "https://sysurl.com.br/GOTIPC03",
+            mobile: "https://sysurl.com.br/GOTIMOBA03"
         },
         {
             title: "Yellow Otimizada",
