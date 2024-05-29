@@ -93,10 +93,10 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.71.2",
+            version: "0.72",
             image: "assets/imagens/DARKUVA.png",
-            steam: "https://sysurl.com.br/DKUPC01",
-            mobile: "https://sysurl.com.br/DKUMOBA01"
+            steam: "https://sysurl.com.br/DKUPC03",
+            mobile: "https://sysurl.com.br/DKUMOBA03"
         },
         {
             title: "BoltWeen",
