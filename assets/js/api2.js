@@ -44,10 +44,10 @@ function getPosts() {
         },
         {
             title: "StumbleGodzEX",
-            version: "0.70",
+            version: "0.72",
             image: "assets/imagens/REVIVER06.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://sysurl.com.br/RVVSTBGEXPC03",
+            mobile: "https://sysurl.com.br/RVVSTBGEXMOBA03"
         },
         {
             title: "GotiGreen",
