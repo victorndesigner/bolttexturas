@@ -86,10 +86,10 @@ function getPosts() {
         },
         {
             title: "BoltAstaxzz",
-            version: "0.71.2",
+            version: "0.72",
             image: "assets/imagens/BOLTAXZZ.png",
-            steam: "https://sysurl.com.br/BAZPC01",
-            mobile: "https://sysurl.com.br/BAZMOBA01"
+            steam: "https://sysurl.com.br/BAZPC03",
+            mobile: "https://sysurl.com.br/BAZMOBA03"
         },
         {
             title: "DarkUva",
