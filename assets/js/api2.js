@@ -65,7 +65,7 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.72",
+            version: "0.71",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             steam: "https://sysurl.com.br/MGLTREPC03",
             mobile: "https://sysurl.com.br/MGLTREMOBA03"
