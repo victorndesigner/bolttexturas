@@ -2,10 +2,10 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.71.5",
+            version: "0.72",
             image: "assets/imagens/REVIVER00.png",
-            steam: "https://sysurl.com.br/RVVSTXTPC02",
-            mobile: "https://sysurl.com.br/RVVSTXTMOBA02"
+            steam: "https://sysurl.com.br/RVVSTXTPC03",
+            mobile: "https://sysurl.com.br/RVVSTXTMOBA03"
         },
         {
             title: "MegaLite",
