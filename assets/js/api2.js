@@ -93,10 +93,10 @@ function getPosts() {
         },
         {
             title: "BoltAstaxzz",
-            version: "0.71.2",
+            version: "0.72",
             image: "assets/imagens/REVIVER13.png",
-            steam: "https://sysurl.com.br/RVVBAZPC01",
-            mobile: "https://sysurl.com.br/RVVBAZMOBA01"
+            steam: "https://sysurl.com.br/RVVBAZPC03",
+            mobile: "https://sysurl.com.br/RVVBAZMOBA03"
         },
         {
             title: "DarkUva",
