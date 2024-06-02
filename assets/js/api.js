@@ -65,10 +65,10 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.71.5",
+            version: "0.72",
             image: "assets/imagens/RESHADER.png",
-            steam: "https://sysurl.com.br/REPC02",
-            mobile: "https://sysurl.com.br/REMOBA02"
+            steam: "https://sysurl.com.br/REPC03",
+            mobile: "https://sysurl.com.br/REMOBA03"
         },
         {
             title: "StumblePink",
