@@ -54,7 +54,7 @@ function getPosts() {
             version: "0.72",
             image: "assets/imagens/REVIVER07.png",
             steam: "https://sysurl.com.br/RVVGOTIPC03",
-            mobile: "https://sysurl.com.br/RVVGOTIPC03"
+            mobile: "https://sysurl.com.br/RVVGOTIMOBA03"
         },
         {
             title: "Yellow Otimizada",
