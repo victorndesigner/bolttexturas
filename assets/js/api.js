@@ -18,7 +18,7 @@ function getPosts() {
             title: "StumbleBolt",
             version: "0.72",
             image: "assets/imagens/STUMBLEBOLT.png",
-            steam: "https://sysurl.com.br/STBPC03",
+            steam: "https://stfly.me/RVVSTBGPC03",
             mobile: "https://sysurl.com.br/STBMOBA03"
         },
         {
