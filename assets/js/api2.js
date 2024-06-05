@@ -114,10 +114,10 @@ function getPosts() {
         },
         {
             title: "Galaxy1",
-            version: "0.60",
+            version: "0.72",
             image: "assets/imagens/REVIVER16.png",
-            steam: "LINK",
-            mobile: "LINK"
+            steam: "https://stfly.me/RVVGLXKPC03",
+            mobile: "https://stfly.me/RVVGLXKMOBA03"
         },
         {
             title: "GalaxyBolt",
