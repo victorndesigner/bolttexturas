@@ -100,10 +100,10 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.71.2",
+            version: "0.72",
             image: "assets/imagens/REVIVER14.png",
-            steam: "https://sysurl.com.br/RVVDKUPCO1",
-            mobile: "https://sysurl.com.br/RVVDKUMOBAO1"
+            steam: "https://stfly.me/RVVDKUPC03",
+            mobile: "https://stfly.me/RVVDKUMOBA03"
         },
         {
             title: "BoltWeen",
