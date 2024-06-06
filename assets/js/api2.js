@@ -107,10 +107,10 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.71.5",
+            version: "0.72",
             image: "assets/imagens/REVIVER15.png",
-            steam: "https://sysurl.com.br/RVVWEENPC02",
-            mobile: "https://sysurl.com.br/RVVWEENMOBA02"
+            steam: "https://sysurl.com.br/RVVWEENPC03",
+            mobile: "https://sysurl.com.br/RVVWEENMOBA03"
         },
         {
             title: "Galaxy1",
