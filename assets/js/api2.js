@@ -58,10 +58,10 @@ function getPosts() {
         },
         {
             title: "Yellow Otimizada",
-            version: "0.71.5",
+            version: "0.72",
             image: "assets/imagens/REVIVER08.png",
-            steam: "https://sysurl.com.br/RVVYLWPC02",
-            mobile: "https://sysurl.com.br/RVVYLWMOBA02"
+            steam: "https://sysurl.com.br/RVVYLWPC03",
+            mobile: "https://sysurl.com.br/RVVYLWMOBA03"
         },
         {
             title: "MegaLite Reshade",
