@@ -72,10 +72,10 @@ function getPosts() {
         },
         {
             title: "StumblePink",
-            version: "0.71.5",
+            version: "0.72",
             image: "assets/imagens/STUMBLEPINK.png",
-            steam: "https://sysurl.com.br/STBPPC02",
-            mobile: "https://sysurl.com.br/STBPMOBA02"
+            steam: "https://sysurl.com.br/STBPPC03",
+            mobile: "https://sysurl.com.br/STBPMOBA03"
         },
         {
             title: "BoltAgua",
