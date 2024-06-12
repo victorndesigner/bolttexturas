@@ -51,10 +51,10 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/REVIVER07.png",
-            steam: "https://sysurl.com.br/RVVGOTIPC03",
-            mobile: "https://sysurl.com.br/RVVGOTIMOBA03"
+            steam: "https://sysurl.com.br/RVVGOTIPC04",
+            mobile: "https://sysurl.com.br/RVVGOTIMOBA04"
         },
         {
             title: "Yellow Otimizada",
