@@ -23,10 +23,10 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/REVIVER03.png",
-            steam: "https://sysurl.com.br/RVVSTBPC03",
-            mobile: "https://sysurl.com.br/RVVSTBMOBA03"
+            steam: "https://sysurl.com.br/RVVSTBPC04",
+            mobile: "https://sysurl.com.br/RVVSTBMOBA04"
         },
         {
             title: "StumbleBolt2",
