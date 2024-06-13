@@ -79,10 +79,10 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/BOLTAGUA.png",
-            steam: "https://sysurl.com.br/BLTAPC03",
-            mobile: "https://sysurl.com.br/BLTAMOBA03"
+            steam: "https://sysurl.com.br/BLTAPC04",
+            mobile: "https://sysurl.com.br/BLTAMOBA04"
         },
         {
             title: "BoltAstaxzz",
