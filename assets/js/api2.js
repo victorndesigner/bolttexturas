@@ -86,10 +86,10 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/REVIVER12.png",
-            steam: "https://sysurl.com.br/RVVBLTAPC03",
-            mobile: "https://sysurl.com.br/RVVBLTAMOBA03"
+            steam: "https://sysurl.com.br/RVVBLTAPC04",
+            mobile: "https://sysurl.com.br/RVVBLTAMOBA04"
         },
         {
             title: "BoltAstaxzz",
