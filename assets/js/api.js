@@ -23,10 +23,10 @@ function getPosts() {
         },
         {
             title: "StumbleBolt2",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
-            steam: "https://sysurl.com.br/STB2PC03",
-            mobile: "https://sysurl.com.br/STB2MOBA03"
+            steam: "https://sysurl.com.br/STB2PC04",
+            mobile: "https://sysurl.com.br/STB2MOBA04"
         },
         {
             title: "StumbleGodz",
