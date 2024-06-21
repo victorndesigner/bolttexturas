@@ -151,6 +151,7 @@ function renderPosts(posts) {
         if (postDisponivel) {
             let steamButton = postagem.steam ? `<a href="${postagem.steam}" class="purple-button">Steam</a>` : '';
             let mobileButton = postagem.mobile ? `<a href="${postagem.mobile}" class="purple-button">Mobile</a>` : '';
+            let donwloadButton = postagem.donwload ? `<a href="${postagem.donwload}" class="purple-button">donwload</a>` : '';
 
             postsDisponiveis.push(`
                 <div class="col-lg-3 col-sm-6 post-item">
@@ -162,6 +163,7 @@ function renderPosts(posts) {
                         <div class="button-container">
                             ${steamButton}
                             ${mobileButton}
+                            ${donwloadButton}
                         </div>
                     </div>
                 </div>
