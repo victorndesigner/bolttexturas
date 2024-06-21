@@ -30,10 +30,9 @@ function getPosts() {
         },
         {
             title: "StumbleGodz",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/STUMBLEGODZ.png",
-            steam: "https://stfly.me/RVVSTBGPC03",
-            mobile: "https://sysurl.com.br/STBGMOBA03"
+            donwload: "https://sysurl.com.br/STBGODZ"
         },
         {
             title: "StumbleGodzEX",
