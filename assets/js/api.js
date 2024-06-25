@@ -2,31 +2,27 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.73",
+            version: "0.74",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            steam: "https://sysurl.com.br/MGLTPC04",
-            mobile: "https://sysurl.com.br/MGLTMOBA04"
+            donwload: "https://sysurl.com.br/TXTMGLT01"
         },
         {
             title: "MegaLite2",
             version: "0.73",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
-            steam: "https://sysurl.com.br/MGLT2PC04",
-            mobile: "https://sysurl.com.br/MGLT2MOBA04"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "StumbleBolt",
             version: "0.73",
             image: "assets/imagens/STUMBLEBOLT.png",
-            steam: "https://sysurl.com.br/STBPC04",
-            mobile: "https://sysurl.com.br/STBMOBA04"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "StumbleBolt2",
             version: "0.73",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
-            steam: "https://sysurl.com.br/STB2PC04",
-            mobile: "https://sysurl.com.br/STB2MOBA04"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "StumbleGodz",
@@ -36,24 +32,21 @@ function getPosts() {
         },
         {
             title: "StumbleGodzEX",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/STUMBLEGODZEXC.png",
-            steam: "https://sysurl.com.br/STBGEXPC03",
-            mobile: "https://sysurl.com.br/STBGEXMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "GotiGreen",
             version: "0.73",
             image: "assets/imagens/GOTIGREEN.png",
-            steam: "https://sysurl.com.br/GOTIPC04",
-            mobile: "https://sysurl.com.br/GOTIMOBA04"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
-            steam: "https://sysurl.com.br/YLWPC03",
-            mobile: "https://sysurl.com.br/YLWMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "MegaLite Reshade",
@@ -63,59 +56,51 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/RESHADER.png",
-            steam: "https://sysurl.com.br/REPC03",
-            mobile: "https://sysurl.com.br/REMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "StumblePink",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/STUMBLEPINK.png",
-            steam: "https://sysurl.com.br/STBPPC03",
-            mobile: "https://sysurl.com.br/STBPMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "BoltAgua",
             version: "0.73",
             image: "assets/imagens/BOLTAGUA.png",
-            steam: "https://sysurl.com.br/BLTAPC04",
-            mobile: "https://sysurl.com.br/BLTAMOBA04"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/BOLTAXZZ.png",
-            steam: "https://sysurl.com.br/BAZPC03",
-            mobile: "https://sysurl.com.br/BAZMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "DarkUva",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/DARKUVA.png",
-            steam: "https://sysurl.com.br/DKUPC03",
-            mobile: "https://sysurl.com.br/DKUMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "BoltWeen",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/BOLTWEEN.png",
-            steam: "https://sysurl.com.br/WEENPC03",
-            mobile: "https://sysurl.com.br/WEENMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "Galaxy1",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/GALAXY1.png",
-            steam: "https://sysurl.com.br/GLXKPC03",
-            mobile: "https://sysurl.com.br/GLXKMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         },
         {
             title: "GalaxyBolt",
-            version: "0.72",
+            version: "0.73",
             image: "assets/imagens/GALAXYBOLT.png",
-            steam: "https://stfly.me/GLXBPC03",
-            mobile: "https://stfly.me/GLXBMOBA03"
+            donwload: "https://sysurl.com.br/MGLTPC04"
         }
     ];
 }
