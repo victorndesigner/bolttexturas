@@ -8,9 +8,9 @@ function getPosts() {
         },
         {
             title: "MegaLite",
-            version: "0.73",
+            version: "0.74",
             image: "assets/imagens/REVIVER01.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVVMGLT01"
         },
         {
             title: "MegaLite2",
