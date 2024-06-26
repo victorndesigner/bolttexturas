@@ -44,9 +44,9 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.73",
+            version: "0.74",
             image: "assets/imagens/REVIVER07.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVVGOTI01"
         },
         {
             title: "Yellow Otimizada",
