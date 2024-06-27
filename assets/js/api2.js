@@ -20,9 +20,9 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.73",
+            version: "0.74",
             image: "assets/imagens/REVIVER03.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVVSTB01"
         },
         {
             title: "StumbleBolt2",
