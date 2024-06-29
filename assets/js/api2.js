@@ -2,9 +2,9 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.73",
+            version: "0.74",
             image: "assets/imagens/REVIVER00.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVVSTXT01"
         },
         {
             title: "MegaLite",
