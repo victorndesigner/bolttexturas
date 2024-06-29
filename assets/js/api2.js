@@ -2,7 +2,7 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.74",
+            version: "0.74.1",
             image: "assets/imagens/REVIVER00.png",
             donwload: "https://sysurl.com.br/RVVSTXT01"
         },
