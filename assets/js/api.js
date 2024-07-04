@@ -28,7 +28,7 @@ function getPosts() {
             title: "StumbleGodz",
             version: "0.74.1",
             image: "assets/imagens/STUMBLEGODZ.png",
-            donwload: "https://sysurl.com.br/TXT-STUMBLE-GODZ-01"
+            donwload: "https://sysurl.com.br/RVV-STUMBLE-GODZ-01"
         },
         {
             title: "StumbleGodzEX",
