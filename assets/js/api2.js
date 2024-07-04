@@ -32,9 +32,9 @@ function getPosts() {
         },
         {
             title: "StumbleGodz",
-            version: "0.73",
+            version: "0.74.1",
             image: "assets/imagens/REVIVER05.png",
-            donwload: "https://sysurl.com.br/RVVSTBGODZ"
+            donwload: "https://sysurl.com.br/RVV-STUMBLE-GODZ-01"
         },
         {
             title: "StumbleGodzEX",
