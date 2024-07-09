@@ -56,9 +56,9 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.73",
+            version: "0.74.1",
             image: "assets/imagens/REVIVER09.png",
-            donwload: "https://sysurl.com.br/RVVMGLTRESHADE"
+            donwload: "https://sysurl.com.br/RVV-MEGALITE-RESHADE-01"
         },
         {
             title: "Reshade",
