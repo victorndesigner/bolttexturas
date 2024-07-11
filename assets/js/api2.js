@@ -8,15 +8,15 @@ function getPosts() {
         },
         {
             title: "MegaLite",
-            version: "0.74.1",
+            version: "0.75",
             image: "assets/imagens/REVIVER01.png",
-            donwload: "https://sysurl.com.br/RVVMGLT01"
+            donwload: "https://sysurl.com.br/RVV-MEGALITE-02"
         },
         {
             title: "MegaLite2",
             version: "0.73",
             image: "assets/imagens/REVIVER02.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVVSTB201"
         },
         {
             title: "StumbleBolt",
@@ -44,8 +44,14 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.74.1",
+            version: "0.74",
             image: "assets/imagens/REVIVER07.png",
+            donwload: "https://sysurl.com.br/RVV-GOTIGREEN-02"
+        },
+        {
+            title: "GotiCartoon",
+            version: "0.74.1",
+            image: "assets/imagens/REVIVER18.png",
             donwload: "https://sysurl.com.br/RVVGOTI01"
         },
         {
