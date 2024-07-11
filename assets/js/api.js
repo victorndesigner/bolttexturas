@@ -38,7 +38,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.74",
+            version: "0.75",
             image: "assets/imagens/GOTIGREEN.png",
             donwload: "https://sysurl.com.br/TXT-GOTIGREEN-02"
         },
