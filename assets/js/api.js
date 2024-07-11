@@ -2,9 +2,9 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.74.1",
+            version: "0.75",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            donwload: "https://sysurl.com.br/TXTMGLT01"
+            donwload: "https://sysurl.com.br/TXT-MEGALITE-02"
         },
         {
             title: "MegaLite2",
@@ -38,9 +38,15 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.74.1",
+            version: "0.74",
             image: "assets/imagens/GOTIGREEN.png",
-            donwload: "https://sysurl.com.br/TXTGOTI01"
+            donwload: "https://sysurl.com.br/TXT-GOTIGREEN-02"
+        },
+        {
+            title: "GotiCartoon",
+            version: "0.74",
+            image: "assets/imagens/GOTICARTOON.png",
+            donwload: "https://sysurl.com.br/TXT-GOTIGREEN-02"
         },
         {
             title: "Yellow Otimizada",
