@@ -44,7 +44,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.74",
+            version: "0.75",
             image: "assets/imagens/REVIVER07.png",
             donwload: "https://sysurl.com.br/RVV-GOTIGREEN-02"
         },
