@@ -2,9 +2,9 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.74.1",
+            version: "0.75",
             image: "assets/imagens/REVIVER00.png",
-            donwload: "https://sysurl.com.br/RVVSTXT01"
+            donwload: "https://sysurl.com.br/REVIVER-SEMHACK-02"
         },
         {
             title: "MegaLite",
@@ -68,9 +68,9 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.73",
+            version: "0.75",
             image: "assets/imagens/REVIVER10.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/REVIVER-RESHADE-02"
         },
         {
             title: "StumblePink",
