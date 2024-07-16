@@ -2,7 +2,7 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.75",
+            version: "0.75.1",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MEGALITE-02"
         },
@@ -14,13 +14,13 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.75",
+            version: "0.75.1",
             image: "assets/imagens/STUMBLEBOLT.png",
             donwload: "https://sysurl.com.br/TXT-STUMBLEBOLT-02"
         },
         {
             title: "StumbleBolt2",
-            version: "0.75",
+            version: "0.75.1",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             donwload: "https://sysurl.com.br/TXT-STUMBLEBOLT2-02"
         },
@@ -38,7 +38,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.75",
+            version: "0.75.1",
             image: "assets/imagens/GOTIGREEN.png",
             donwload: "https://sysurl.com.br/TXT-GOTIGREEN-02"
         },
@@ -62,7 +62,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.75",
+            version: "0.75.1",
             image: "assets/imagens/RESHADER.png",
             donwload: "https://sysurl.com.br/TEXTURA-RESHADE-02"
         },
