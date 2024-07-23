@@ -10,7 +10,7 @@ function getPosts() {
             title: "MegaLite",
             version: "0.75.5",
             image: "assets/imagens/REVIVER01.png",
-            donwload: "https://sysurl.com.br/RVV-MEGALITE-02"
+            donwload: "https://sysurl.com.br/RVV-MGLT"
         },
         {
             title: "MegaLite2",
@@ -46,7 +46,7 @@ function getPosts() {
             title: "GotiGreen",
             version: "0.75.5",
             image: "assets/imagens/REVIVER07.png",
-            donwload: "https://sysurl.com.br/RVV-GOTIGREEN-02"
+            donwload: "https://sysurl.com.br/RVV-GOTI"
         },
         {
             title: "GotiCartoon",
