@@ -14,13 +14,13 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.75.5",
+            version: "0.75",
             image: "assets/imagens/STUMBLEBOLT.png",
             donwload: "https://sysurl.com.br/TXT-STUMBLEBOLT-02"
         },
         {
             title: "StumbleBolt2",
-            version: "0.75.5",
+            version: "0.75",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             donwload: "https://sysurl.com.br/TXT-STUMBLEBOLT2-02"
         },
@@ -62,7 +62,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.75.5",
+            version: "0.75",
             image: "assets/imagens/RESHADER.png",
             donwload: "https://sysurl.com.br/TEXTURA-RESHADE-02"
         },
