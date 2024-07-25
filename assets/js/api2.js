@@ -28,7 +28,7 @@ function getPosts() {
             title: "StumbleBolt2",
             version: "0.75",
             image: "assets/imagens/REVIVER04.png",
-            donwload: "https://sysurl.com.br/RVV-STUMBLEBOLT2-02"
+            donwload: "https://sysurl.com.br/RVV-STB2"
         },
         {
             title: "StumbleGodz",
