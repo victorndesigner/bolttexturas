@@ -2,7 +2,7 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.75.5",
+            version: "0.76",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT"
         },
@@ -38,7 +38,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.75.5",
+            version: "0.76",
             image: "assets/imagens/GOTIGREEN.png",
             donwload: "https://sysurl.com.br/TXT-GOTI"
         },

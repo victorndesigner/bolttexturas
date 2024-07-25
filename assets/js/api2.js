@@ -2,13 +2,13 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.75.5",
+            version: "0.76",
             image: "assets/imagens/REVIVER00.png",
             donwload: "https://sysurl.com.br/RVV-STXT"
         },
         {
             title: "MegaLite",
-            version: "0.75.5",
+            version: "0.76",
             image: "assets/imagens/REVIVER01.png",
             donwload: "https://sysurl.com.br/RVV-MGLT"
         },
@@ -44,7 +44,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.75.5",
+            version: "0.76",
             image: "assets/imagens/REVIVER07.png",
             donwload: "https://sysurl.com.br/RVV-GOTI"
         },
