@@ -20,7 +20,7 @@ function getPosts() {
         },
         {
             title: "StumbleBolt2",
-            version: "0.76",
+            version: "0.75",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             donwload: "https://sysurl.com.br/TXT-STB2"
         },
