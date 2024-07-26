@@ -92,7 +92,7 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.75",
+            version: "0.76",
             image: "assets/imagens/BOLTWEEN.png",
             donwload: "https://sysurl.com.br/TXT-WEEN"
         },
