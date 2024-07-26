@@ -62,9 +62,9 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.75",
+            version: "0.76",
             image: "assets/imagens/RESHADER.png",
-            donwload: "https://sysurl.com.br/TEXTURA-RESHADE-02"
+            donwload: "https://sysurl.com.br/TXT-RE"
         },
         {
             title: "StumblePink",
@@ -92,9 +92,9 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.73",
+            version: "0.75",
             image: "assets/imagens/BOLTWEEN.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-WEEN"
         },
         {
             title: "Galaxy1",

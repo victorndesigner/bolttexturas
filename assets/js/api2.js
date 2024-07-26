@@ -70,7 +70,7 @@ function getPosts() {
             title: "Reshade",
             version: "0.75",
             image: "assets/imagens/REVIVER10.png",
-            donwload: "https://sysurl.com.br/REVIVER-RESHADE-02"
+            donwload: "https://sysurl.com.br/RVV-RE"
         },
         {
             title: "StumblePink",
@@ -98,9 +98,9 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.73",
+            version: "0.75",
             image: "assets/imagens/REVIVER15.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVV-WEEN"
         },
         {
             title: "Galaxy1",
