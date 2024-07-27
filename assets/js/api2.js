@@ -50,15 +50,15 @@ function getPosts() {
         },
         {
             title: "GotiCartoon",
-            version: "0.74.1",
+            version: "0.75",
             image: "assets/imagens/REVIVER18.png",
-            donwload: "https://sysurl.com.br/RVVGOTI01"
+            donwload: "https://sysurl.com.br/RVV-TOON"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.73",
+            version: "0.75",
             image: "assets/imagens/REVIVER08.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVV-YLW"
         },
         {
             title: "MegaLite Reshade",

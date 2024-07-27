@@ -44,15 +44,15 @@ function getPosts() {
         },
         {
             title: "GotiCartoon",
-            version: "0.74",
+            version: "0.75",
             image: "assets/imagens/GOTICARTOON.png",
-            donwload: "https://sysurl.com.br/TXT-GOTIGREEN-02"
+            donwload: "https://sysurl.com.br/TXT-TOON"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.73",
+            version: "0.76",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-YLW"
         },
         {
             title: "MegaLite Reshade",
