@@ -44,7 +44,7 @@ function getPosts() {
         },
         {
             title: "GotiCartoon",
-            version: "0.75",
+            version: "0.76",
             image: "assets/imagens/GOTICARTOON.png",
             donwload: "https://sysurl.com.br/TXT-TOON"
         },
