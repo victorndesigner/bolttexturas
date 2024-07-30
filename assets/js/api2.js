@@ -2,13 +2,13 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER00.png",
             donwload: "https://sysurl.com.br/RVV-STXT"
         },
         {
             title: "MegaLite",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER01.png",
             donwload: "https://sysurl.com.br/RVV-MGLT"
         },
@@ -20,13 +20,13 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER03.png",
             donwload: "https://sysurl.com.br/RVV-STB"
         },
         {
             title: "StumbleBolt2",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER04.png",
             donwload: "https://sysurl.com.br/RVV-STB2"
         },
@@ -44,19 +44,19 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER07.png",
             donwload: "https://sysurl.com.br/RVV-GOTI"
         },
         {
             title: "GotiCartoon",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER18.png",
             donwload: "https://sysurl.com.br/RVV-TOON"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER08.png",
             donwload: "https://sysurl.com.br/RVV-YLW"
         },
@@ -68,7 +68,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER10.png",
             donwload: "https://sysurl.com.br/RVV-RE"
         },
@@ -98,7 +98,7 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER15.png",
             donwload: "https://sysurl.com.br/RVV-WEEN"
         },

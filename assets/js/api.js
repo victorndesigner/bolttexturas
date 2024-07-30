@@ -2,7 +2,7 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT"
         },
@@ -14,13 +14,13 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/STUMBLEBOLT.png",
             donwload: "https://sysurl.com.br/TXT-STB"
         },
         {
             title: "StumbleBolt2",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             donwload: "https://sysurl.com.br/TXT-STB2"
         },
@@ -38,19 +38,19 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/GOTIGREEN.png",
             donwload: "https://sysurl.com.br/TXT-GOTI"
         },
         {
             title: "GotiCartoon",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/GOTICARTOON.png",
             donwload: "https://sysurl.com.br/TXT-TOON"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
             donwload: "https://sysurl.com.br/TXT-YLW"
         },
@@ -62,7 +62,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/RESHADER.png",
             donwload: "https://sysurl.com.br/TXT-RE"
         },
@@ -92,7 +92,7 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.76",
+            version: "0.76.1",
             image: "assets/imagens/BOLTWEEN.png",
             donwload: "https://sysurl.com.br/TXT-WEEN"
         },
