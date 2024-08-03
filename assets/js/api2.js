@@ -92,9 +92,9 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.73",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER14.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVV-UVA"
         },
         {
             title: "BoltWeen",
@@ -110,9 +110,9 @@ function getPosts() {
         },
         {
             title: "GalaxyBolt",
-            version: "0.73",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER17.png",
-            donwload: "https://sysurl.com.br/RVVSTXTPC04"
+            donwload: "https://sysurl.com.br/RVV-GLXB"
         }
     ];
 };

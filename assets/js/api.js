@@ -86,9 +86,9 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.73",
+            version: "0.76.1",
             image: "assets/imagens/DARKUVA.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-UVA"
         },
         {
             title: "BoltWeen",
@@ -104,9 +104,9 @@ function getPosts() {
         },
         {
             title: "GalaxyBolt",
-            version: "0.73",
+            version: "0.76.1",
             image: "assets/imagens/GALAXYBOLT.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-GLXB"
         }
     ];
 }
