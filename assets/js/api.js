@@ -74,7 +74,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.75.1",
+            version: "0.76.1",
             image: "assets/imagens/BOLTAGUA.png",
             donwload: "https://sysurl.com.br/TXT-AGUA"
         },
