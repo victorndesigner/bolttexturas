@@ -32,7 +32,7 @@ function getPosts() {
         },
         {
             title: "StumbleGodz",
-            version: "0.76.1",
+            version: "0.75.1",
             image: "assets/imagens/REVIVER05.png",
             donwload: "https://sysurl.com.br/RVV-GODZ"
         },
@@ -80,7 +80,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.76.1",
+            version: "0.75.1",
             image: "assets/imagens/REVIVER12.png",
             donwload: "https://sysurl.com.br/RVV-AGUA"
         },
