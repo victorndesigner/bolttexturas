@@ -16,7 +16,7 @@ function getPosts() {
             title: "MegaLite2",
             version: "0.75.1",
             image: "assets/imagens/REVIVER02.png",
-            donwload: "https://sysurl.com.br/RVVSTB201"
+            donwload: "https://sysurl.com.br/RVV-MGLT2"
         },
         {
             title: "StumbleBolt",
@@ -64,7 +64,7 @@ function getPosts() {
             title: "MegaLite Reshade",
             version: "0.75.1",
             image: "assets/imagens/REVIVER09.png",
-            donwload: "https://sysurl.com.br/RVV-MEGALITE-RESHADE-01"
+            donwload: "https://sysurl.com.br/RVV-MGLTRE"
         },
         {
             title: "Reshade",
@@ -86,7 +86,7 @@ function getPosts() {
         },
         {
             title: "BoltAstaxzz",
-            version: "0.75.1",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER13.png",
             donwload: "https://sysurl.com.br/RVV-BAZ"
         },
@@ -104,7 +104,7 @@ function getPosts() {
         },
         {
             title: "Galaxy1",
-            version: "0.75.1",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER16.png",
             donwload: "https://sysurl.com.br/RVV-GLXK"
         },

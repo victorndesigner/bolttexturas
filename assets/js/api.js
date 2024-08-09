@@ -10,7 +10,7 @@ function getPosts() {
             title: "MegaLite2",
             version: "0.75.1",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-MGLT2"
         },
         {
             title: "StumbleBolt",
@@ -58,7 +58,7 @@ function getPosts() {
             title: "MegaLite Reshade",
             version: "0.75.1",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
-            donwload: "https://sysurl.com.br/TXT-MEGALITE-RESHADE-01"
+            donwload: "https://sysurl.com.br/TXT-MGLTRE"
         },
         {
             title: "Reshade",
@@ -80,7 +80,7 @@ function getPosts() {
         },
         {
             title: "BoltAstaxzz",
-            version: "0.75.1",
+            version: "0.76.1",
             image: "assets/imagens/BOLTAXZZ.png",
             donwload: "https://sysurl.com.br/TXT-BAZ"
         },
