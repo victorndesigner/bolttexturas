@@ -8,7 +8,7 @@ function getPosts() {
         },
         {
             title: "MegaLite2",
-            version: "0.73",
+            version: "0.75.1",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             donwload: "https://sysurl.com.br/MGLTPC04"
         },
@@ -32,9 +32,9 @@ function getPosts() {
         },
         {
             title: "StumbleGodzEX",
-            version: "0.73",
+            version: "0.75.1",
             image: "assets/imagens/STUMBLEGODZEXC.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-GODZEX"
         },
         {
             title: "GotiGreen",
@@ -56,7 +56,7 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.74.1",
+            version: "0.75.1",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MEGALITE-RESHADE-01"
         },
@@ -68,9 +68,9 @@ function getPosts() {
         },
         {
             title: "StumblePink",
-            version: "0.73",
+            version: "0.75.1",
             image: "assets/imagens/STUMBLEPINK.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-PINK"
         },
         {
             title: "BoltAgua",
@@ -80,9 +80,9 @@ function getPosts() {
         },
         {
             title: "BoltAstaxzz",
-            version: "0.73",
+            version: "0.75.1",
             image: "assets/imagens/BOLTAXZZ.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-BAZ"
         },
         {
             title: "DarkUva",
@@ -98,9 +98,9 @@ function getPosts() {
         },
         {
             title: "Galaxy1",
-            version: "0.73",
+            version: "0.76.1",
             image: "assets/imagens/GALAXY1.png",
-            donwload: "https://sysurl.com.br/MGLTPC04"
+            donwload: "https://sysurl.com.br/TXT-GLXK"
         },
         {
             title: "GalaxyBolt",
