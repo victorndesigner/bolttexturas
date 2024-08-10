@@ -38,7 +38,7 @@ function getPosts() {
         },
         {
             title: "StumbleGodzEX",
-            version: "0.75.1",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER06.png",
             donwload: "https://sysurl.com.br/RVV-GODZEX"
         },
@@ -74,7 +74,7 @@ function getPosts() {
         },
         {
             title: "StumblePink",
-            version: "0.75.1",
+            version: "0.76.1",
             image: "assets/imagens/REVIVER11.png",
             donwload: "https://sysurl.com.br/RVV-PINK"
         },
