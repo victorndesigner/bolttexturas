@@ -2,109 +2,109 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT"
         },
         {
             title: "MegaLite2",
-            version: "0.75.1",
+            version: "0.76.2",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT2"
         },
         {
             title: "StumbleBolt",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/STUMBLEBOLT.png",
             donwload: "https://sysurl.com.br/TXT-STB"
         },
         {
             title: "StumbleBolt2",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             donwload: "https://sysurl.com.br/TXT-STB2"
         },
         {
             title: "StumbleGodz",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/STUMBLEGODZ.png",
             donwload: "https://sysurl.com.br/TXT-GODZ"
         },
         {
             title: "StumbleGodzEX",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/STUMBLEGODZEXC.png",
             donwload: "https://sysurl.com.br/TXT-GODZEX"
         },
         {
             title: "GotiGreen",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/GOTIGREEN.png",
             donwload: "https://sysurl.com.br/TXT-GOTI"
         },
         {
             title: "GotiCartoon",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/GOTICARTOON.png",
             donwload: "https://sysurl.com.br/TXT-TOON"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
             donwload: "https://sysurl.com.br/TXT-YLW"
         },
         {
             title: "MegaLite Reshade",
-            version: "0.75.1",
+            version: "0.76.2",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLTRE"
         },
         {
             title: "Reshade",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/RESHADER.png",
             donwload: "https://sysurl.com.br/TXT-RE"
         },
         {
             title: "StumblePink",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/STUMBLEPINK.png",
             donwload: "https://sysurl.com.br/TXT-PINK"
         },
         {
             title: "BoltAgua",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/BOLTAGUA.png",
             donwload: "https://sysurl.com.br/TXT-AGUA"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/BOLTAXZZ.png",
             donwload: "https://sysurl.com.br/TXT-BAZ"
         },
         {
             title: "DarkUva",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/DARKUVA.png",
             donwload: "https://sysurl.com.br/TXT-UVA"
         },
         {
             title: "BoltWeen",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/BOLTWEEN.png",
             donwload: "https://sysurl.com.br/TXT-WEEN"
         },
         {
             title: "Galaxy1",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/GALAXY1.png",
             donwload: "https://sysurl.com.br/TXT-GLXK"
         },
         {
             title: "GalaxyBolt",
-            version: "0.76.1",
+            version: "0.76.2",
             image: "assets/imagens/GALAXYBOLT.png",
             donwload: "https://sysurl.com.br/TXT-GLXB"
         }
