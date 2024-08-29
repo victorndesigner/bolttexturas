@@ -20,13 +20,13 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER03.png",
             donwload: "https://sysurl.com.br/RVV-STB"
         },
         {
             title: "StumbleBolt2",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER04.png",
             donwload: "https://sysurl.com.br/RVV-STB2"
         },
@@ -56,7 +56,7 @@ function getPosts() {
         },
         {
             title: "Yellow Otimizada",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER08.png",
             donwload: "https://sysurl.com.br/RVV-YLW"
         },
@@ -110,7 +110,7 @@ function getPosts() {
         },
         {
             title: "GalaxyBolt",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER17.png",
             donwload: "https://sysurl.com.br/RVV-GLXB"
         }

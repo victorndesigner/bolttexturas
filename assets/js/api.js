@@ -14,13 +14,13 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/STUMBLEBOLT.png",
             donwload: "https://sysurl.com.br/TXT-STB"
         },
         {
             title: "StumbleBolt2",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             donwload: "https://sysurl.com.br/TXT-STB2"
         },
@@ -50,7 +50,7 @@ function getPosts() {
         },
         {
             title: "Yellow Otimizada",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
             donwload: "https://sysurl.com.br/TXT-YLW"
         },
@@ -104,7 +104,7 @@ function getPosts() {
         },
         {
             title: "GalaxyBolt",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/GALAXYBOLT.png",
             donwload: "https://sysurl.com.br/TXT-GLXB"
         }
