@@ -8,7 +8,7 @@ function getPosts() {
         },
         {
             title: "MegaLite2",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT2"
         },
@@ -26,7 +26,7 @@ function getPosts() {
         },
         {
             title: "StumbleGodz",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/STUMBLEGODZ.png",
             donwload: "https://sysurl.com.br/TXT-GODZ"
         },
@@ -62,7 +62,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/RESHADER.png",
             donwload: "https://sysurl.com.br/TXT-RE"
         },
@@ -86,7 +86,7 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/DARKUVA.png",
             donwload: "https://sysurl.com.br/TXT-UVA"
         },

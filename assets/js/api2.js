@@ -14,7 +14,7 @@ function getPosts() {
         },
         {
             title: "MegaLite2",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER02.png",
             donwload: "https://sysurl.com.br/RVV-MGLT2"
         },
@@ -32,7 +32,7 @@ function getPosts() {
         },
         {
             title: "StumbleGodz",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER05.png",
             donwload: "https://sysurl.com.br/RVV-GODZ"
         },
@@ -68,7 +68,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER10.png",
             donwload: "https://sysurl.com.br/RVV-RE"
         },
@@ -92,7 +92,7 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.76",
+            version: "0.77",
             image: "assets/imagens/REVIVER14.png",
             donwload: "https://sysurl.com.br/RVV-UVA"
         },
