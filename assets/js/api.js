@@ -2,31 +2,31 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT"
         },
         {
             title: "MegaLite2",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT2"
         },
         {
             title: "StumbleBolt",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/STUMBLEBOLT.png",
             donwload: "https://sysurl.com.br/TXT-STB"
         },
         {
             title: "StumbleBolt2",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             donwload: "https://sysurl.com.br/TXT-STB2"
         },
         {
             title: "StumbleGodz",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/STUMBLEGODZ.png",
             donwload: "https://sysurl.com.br/TXT-GODZ"
         },
@@ -38,19 +38,19 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/GOTIGREEN.png",
             donwload: "https://sysurl.com.br/TXT-GOTI"
         },
         {
             title: "GotiCartoon",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/GOTICARTOON.png",
             donwload: "https://sysurl.com.br/TXT-TOON"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
             donwload: "https://sysurl.com.br/TXT-YLW"
         },
@@ -62,7 +62,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/RESHADER.png",
             donwload: "https://sysurl.com.br/TXT-RE"
         },
@@ -86,7 +86,7 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/DARKUVA.png",
             donwload: "https://sysurl.com.br/TXT-UVA"
         },
@@ -98,13 +98,13 @@ function getPosts() {
         },
         {
             title: "Galaxy1",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/GALAXY1.png",
             donwload: "https://sysurl.com.br/TXT-GLXK"
         },
         {
             title: "GalaxyBolt",
-            version: "0.77",
+            version: "0.77.6",
             image: "assets/imagens/GALAXYBOLT.png",
             donwload: "https://sysurl.com.br/TXT-GLXB"
         }
