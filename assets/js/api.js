@@ -113,22 +113,23 @@ function getPosts() {
 
 async function getVersion() {
     let returnVersion;
-    await fetch('https://api.stumbleguys.com/shared/1/LIVE')
+    await fetch('https://astax-stumble.vercel.app/shared')
         .then(r => r.json())
         .then(data => {
-            let version = data.Versions.Max
+            let version = data.Versions.AndroidLastVersionAvailable;
             returnVersion = version;
         });
 
     return returnVersion;
 }
 
-function renderPosts(posts) {
+async function renderPosts(posts) {
+    const sg_version = await getVersion();
     const postsDisponiveis = [];
     const postsIndisponiveis = [];
 
     posts.forEach(postagem => {
-        const postDisponivel = postagem.version == stumbleVersion;
+        const postDisponivel = postagem.version == sg_version;
 
         if (postDisponivel) {
             let steamButton = postagem.steam ? `<a href="${postagem.steam}" class="purple-button">Steam</a>` : '';
@@ -172,8 +173,6 @@ function renderPosts(posts) {
 
 async function init() {
     const postagens = await getPosts();
-    stumbleVersion = await getVersion(); // Define stumbleVersion como uma variável global
-
     renderPosts(postagens);
 
     document.getElementById('searchInput').addEventListener('input', function() {
@@ -183,5 +182,5 @@ async function init() {
     });
 }
 
-let stumbleVersion; // Define stumbleVersion como uma variável global
 init();
+
