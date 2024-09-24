@@ -4,7 +4,7 @@ function getPosts() {
             title: "SemTextura",
             version: "0.78",
             image: "assets/imagens/REVIVER00.png",
-            donwload: "https://sysurl.com.br/RVV-STXT"
+            donwload: "https://rbxurl.pro/RVV-STXT-STEAM"
         },
         {
             title: "MegaLite",
