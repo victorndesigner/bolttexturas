@@ -10,7 +10,7 @@ function getPosts() {
             title: "MegaLite",
             version: "0.78",
             image: "assets/imagens/REVIVER01.png",
-            donwload: "https://sysurl.com.br/RVV-MGLT"
+            donwload: "https://rbxurl.pro/RVV-MGLT-STEAM"
         },
         {
             title: "MegaLite2",
@@ -22,7 +22,7 @@ function getPosts() {
             title: "StumbleBolt",
             version: "0.78",
             image: "assets/imagens/REVIVER03.png",
-            donwload: "https://sysurl.com.br/RVV-STB"
+            donwload: "https://rbxurl.pro/RVV-STB-STEAM"
         },
         {
             title: "StumbleBolt2",
@@ -46,7 +46,7 @@ function getPosts() {
             title: "GotiGreen",
             version: "0.78",
             image: "assets/imagens/REVIVER07.png",
-            donwload: "https://sysurl.com.br/RVV-GOTI"
+            donwload: "https://rbxurl.pro/RVV-GOTI-STEAM"
         },
         {
             title: "GotiCartoon",
@@ -88,7 +88,7 @@ function getPosts() {
             title: "BoltAstaxzz",
             version: "0.78",
             image: "assets/imagens/REVIVER13.png",
-            donwload: "https://sysurl.com.br/RVV-BAZ"
+            donwload: "https://rbxurl.pro/RVV-BAZ-STEAM"
         },
         {
             title: "DarkUva",

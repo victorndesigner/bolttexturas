@@ -4,7 +4,7 @@ function getPosts() {
             title: "MegaLite",
             version: "0.78",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            donwload: "https://sysurl.com.br/TXT-MGLT"
+            donwload: "https://rbxurl.pro/TXT-MGLT-STEAM"
         },
         {
             title: "MegaLite2",
@@ -16,7 +16,7 @@ function getPosts() {
             title: "StumbleBolt",
             version: "0.78",
             image: "assets/imagens/STUMBLEBOLT.png",
-            donwload: "https://sysurl.com.br/TXT-STB"
+            donwload: "https://rbxurl.pro/TXT-STB-STEAM"
         },
         {
             title: "StumbleBolt2",
@@ -40,7 +40,7 @@ function getPosts() {
             title: "GotiGreen",
             version: "0.78",
             image: "assets/imagens/GOTIGREEN.png",
-            donwload: "https://sysurl.com.br/TXT-GOTI"
+            donwload: "https://rbxurl.pro/TXT-GOTI-STEAM"
         },
         {
             title: "GotiCartoon",
@@ -82,7 +82,7 @@ function getPosts() {
             title: "BoltAstaxzz",
             version: "0.78",
             image: "assets/imagens/BOLTAXZZ.png",
-            donwload: "https://sysurl.com.br/TXT-BAZ"
+            donwload: "https://rbxurl.pro/TXT-BAZ-STEAM"
         },
         {
             title: "DarkUva",
