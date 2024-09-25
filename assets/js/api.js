@@ -8,7 +8,7 @@ function getPosts() {
         },
         {
             title: "MegaLite2",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT2"
         },
@@ -20,9 +20,9 @@ function getPosts() {
         },
         {
             title: "StumbleBolt2",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
-            donwload: "https://sysurl.com.br/TXT-STB2"
+            donwload: "https://rbxurl.pro/TXT-STB2-STEAM"
         },
         {
             title: "StumbleGodz",
@@ -44,9 +44,9 @@ function getPosts() {
         },
         {
             title: "GotiCartoon",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/GOTICARTOON.png",
-            donwload: "https://sysurl.com.br/TXT-TOON"
+            donwload: "https://rbxurl.pro/TXT-TOON-STEAM"
         },
         {
             title: "Yellow Otimizada",
@@ -56,7 +56,7 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLTRE"
         },
@@ -74,9 +74,9 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/BOLTAGUA.png",
-            donwload: "https://sysurl.com.br/TXT-AGUA"
+            donwload: "https://rbxurl.pro/TXT-AGUA-STEAM"
         },
         {
             title: "BoltAstaxzz",
