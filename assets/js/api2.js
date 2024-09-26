@@ -56,9 +56,9 @@ function getPosts() {
         },
         {
             title: "Yellow Otimizada",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/REVIVER08.png",
-            donwload: "https://sysurl.com.br/RVV-YLW"
+            donwload: "https://rbxurl.pro/RVV-YLW-STEAM"
         },
         {
             title: "MegaLite Reshade",
@@ -68,13 +68,13 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/REVIVER10.png",
-            donwload: "https://sysurl.com.br/RVV-RE"
+            donwload: "https://rbxurl.pro/RVV-RE-STEAM"
         },
         {
             title: "StumblePink",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/REVIVER11.png",
             donwload: "https://sysurl.com.br/RVV-PINK"
         },
@@ -98,9 +98,9 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/REVIVER15.png",
-            donwload: "https://sysurl.com.br/RVV-WEEN"
+            donwload: "https://rbxurl.pro/RVV-WEEN-STEAM"
         },
         {
             title: "Galaxy1",
@@ -110,9 +110,9 @@ function getPosts() {
         },
         {
             title: "GalaxyBolt",
-            version: "0.77",
+            version: "0.78",
             image: "assets/imagens/REVIVER17.png",
-            donwload: "https://sysurl.com.br/RVV-GLXB"
+            donwload: "https://rbxurl.pro/RVV-GBOLT-STEAM"
         }
     ];
 };
