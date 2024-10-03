@@ -2,115 +2,115 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER00.png",
             donwload: "https://rbxurl.pro/RVV-STXT-STEAM"
         },
         {
             title: "MegaLite",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER01.png",
             donwload: "https://rbxurl.pro/RVV-MGLT-STEAM"
         },
         {
             title: "MegaLite2",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER02.png",
             donwload: "https://sysurl.com.br/RVV-MGLT2"
         },
         {
             title: "StumbleBolt",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER03.png",
             donwload: "https://rbxurl.pro/RVV-STB-STEAM"
         },
         {
             title: "StumbleBolt2",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER04.png",
             donwload: "https://rbxurl.pro/RVV-STB2-STEAM"
         },
         {
             title: "StumbleGodz",
-            version: "0.77",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER05.png",
-            donwload: "https://sysurl.com.br/RVV-GODZ"
+            donwload: "https://rbxurl.pro/RVV-GODZ-STEAM"
         },
         {
             title: "StumbleGodzEX",
-            version: "0.77",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER06.png",
-            donwload: "https://sysurl.com.br/RVV-GODZEX"
+            donwload: "https://rbxurl.pro/RVV-GODZEX-STEAM"
         },
         {
             title: "GotiGreen",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER07.png",
             donwload: "https://rbxurl.pro/RVV-GOTI-STEAM"
         },
         {
             title: "GotiCartoon",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER18.png",
             donwload: "https://rbxurl.pro/RVV-TOON-STEAM"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER08.png",
             donwload: "https://rbxurl.pro/RVV-YLW-STEAM"
         },
         {
             title: "MegaLite Reshade",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER09.png",
             donwload: "https://sysurl.com.br/RVV-MGLTRE"
         },
         {
             title: "Reshade",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER10.png",
             donwload: "https://rbxurl.pro/RVV-RE-STEAM"
         },
         {
             title: "StumblePink",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER11.png",
             donwload: "https://sysurl.com.br/RVV-PINK"
         },
         {
             title: "BoltAgua",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER12.png",
             donwload: "https://rbxurl.pro/RVV-AGUA-STEAM"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER13.png",
             donwload: "https://rbxurl.pro/RVV-BAZ-STEAM"
         },
         {
             title: "DarkUva",
-            version: "0.77",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER14.png",
-            donwload: "https://sysurl.com.br/RVV-UVA"
+            donwload: "https://rbxurl.pro/RVV-UVA-STEAM"
         },
         {
             title: "BoltWeen",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER15.png",
             donwload: "https://rbxurl.pro/RVV-WEEN-STEAM"
         },
         {
             title: "Galaxy1",
-            version: "0.77",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER16.png",
-            donwload: "https://sysurl.com.br/RVV-GLXK"
+            donwload: "https://rbxurl.pro/RVV-GLXK-STEAM"
         },
         {
             title: "GalaxyBolt",
-            version: "0.78",
+            version: "0.78.1",
             image: "assets/imagens/REVIVER17.png",
             donwload: "https://rbxurl.pro/RVV-GBOLT-STEAM"
         }
