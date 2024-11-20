@@ -1,5 +1,5 @@
 // Defina a versão do script aqui
-const scriptVersion = "0.80";
+const scriptVersion = "0.81";
 
 // Lista de postagens com suas respectivas versões
 function getPosts() {
