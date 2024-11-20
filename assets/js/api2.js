@@ -6,13 +6,13 @@ function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER00.png",
             donwload: "https://rbxurl.pro/RVV-STXT-STEAM"
         },
         {
             title: "MegaLite",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER01.png",
             donwload: "https://sysurl.com.br/RVV-MGLT"
         },
@@ -42,19 +42,19 @@ function getPosts() {
         },
         {
             title: "StumbleGodzEX",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER06.png",
             donwload: "https://sysurl.com.br/RVV-GODZEX"
         },
         {
             title: "GotiGreen",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER07.png",
             donwload: "https://sysurl.com.br/RVV-GOTI"
         },
         {
             title: "GotiCartoon",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER18.png",
             donwload: "https://sysurl.com.br/RVV-TOON"
         },
@@ -84,7 +84,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER12.png",
             donwload: "https://sysurl.com.br/RVV-AGUA"
         },

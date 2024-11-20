@@ -6,7 +6,7 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT"
         },
@@ -36,19 +36,19 @@ function getPosts() {
         },
         {
             title: "StumbleGodzEX",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/STUMBLEGODZEXC.png",
             donwload: "https://sysurl.com.br/TXT-GODZEX"
         },
         {
             title: "GotiGreen",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/GOTIGREEN.png",
             donwload: "https://sysurl.com.br/TXT-GOTI"
         },
         {
             title: "GotiCartoon",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/GOTICARTOON.png",
             donwload: "https://sysurl.com.br/TXT-TOON"
         },
@@ -78,7 +78,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/BOLTAGUA.png",
             donwload: "https://sysurl.com.br/TXT-AGUA"
         },
