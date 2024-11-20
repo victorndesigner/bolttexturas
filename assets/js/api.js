@@ -1,5 +1,5 @@
 // Defina a versão do script aqui
-const scriptVersion = "0.81";
+const scriptVersion = "0.80";
 
 // Lista de postagens com suas respectivas versões
 function getPosts() {
@@ -8,109 +8,109 @@ function getPosts() {
             title: "MegaLite",
             version: "0.80",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            donwload: "https://rbxurl.pro/TXT-MGLT"
+            download: "https://rbxurl.pro/txt-mglt"
         },
         {
             title: "MegaLite2",
             version: "0.79",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
-            donwload: "https://rbxurl.pro/TXT-MGLT2"
+            download: "https://rbxurl.pro/txt-mglt2"
         },
         {
             title: "StumbleBolt",
             version: "0.79",
             image: "assets/imagens/STUMBLEBOLT.png",
-            donwload: "https://rbxurl.pro/TXT-STB"
+            download: "https://rbxurl.pro/txt-stb"
         },
         {
             title: "StumbleBolt2",
             version: "0.79",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
-            donwload: "https://rbxurl.pro/TXT-STB2"
+            download: "https://rbxurl.pro/txt-stb2"
         },
         {
             title: "StumbleGodz",
             version: "0.79",
             image: "assets/imagens/STUMBLEGODZ.png",
-            donwload: "https://rbxurl.pro/TXT-GODZ"
+            download: "https://rbxurl.pro/txt-godz"
         },
         {
-            title: "StumbleGodzEX",
+            title: "StumbleGodzExc",
             version: "0.80",
             image: "assets/imagens/STUMBLEGODZEXC.png",
-            donwload: "https://rbxurl.pro/TXT-GODZEX"
+            download: "https://rbxurl.pro/txt-godzex"
         },
         {
             title: "GotiGreen",
             version: "0.80",
             image: "assets/imagens/GOTIGREEN.png",
-            donwload: "https://rbxurl.pro/TXT-GOTI"
+            download: "https://rbxurl.pro/txt-goti"
         },
         {
             title: "GotiCartoon",
             version: "0.80",
             image: "assets/imagens/GOTICARTOON.png",
-            donwload: "https://rbxurl.pro/TXT-TOON"
+            download: "https://rbxurl.pro/txt-toon"
         },
         {
             title: "Yellow Otimizada",
             version: "0.79",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
-            donwload: "https://rbxurl.pro/TXT-YLW"
+            download: "https://rbxurl.pro/txt-ylw"
         },
         {
             title: "MegaLite Reshade",
             version: "0.79",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
-            donwload: "https://rbxurl.pro/TXT-MGLTRE"
+            download: "https://rbxurl.pro/txt-mgltre"
         },
         {
             title: "Reshade",
             version: "0.79",
             image: "assets/imagens/RESHADER.png",
-            donwload: "https://rbxurl.pro/TXT-RE"
+            download: "https://rbxurl.pro/txt-re"
         },
         {
             title: "StumblePink",
             version: "0.79",
             image: "assets/imagens/STUMBLEPINK.png",
-            donwload: "https://rbxurl.pro/TXT-PINK"
+            download: "https://rbxurl.pro/txt-pink"
         },
         {
             title: "BoltAgua",
             version: "0.80",
             image: "assets/imagens/BOLTAGUA.png",
-            donwload: "https://rbxurl.pro/TXT-AGUA"
+            download: "https://rbxurl.pro/txt-agua"
         },
         {
             title: "BoltAstaxzz",
             version: "0.79",
             image: "assets/imagens/BOLTAXZZ.png",
-            donwload: "https://rbxurl.pro/TXT-BAZ"
+            download: "https://rbxurl.pro/txt-baz"
         },
         {
             title: "DarkUva",
             version: "0.79",
             image: "assets/imagens/DARKUVA.png",
-            donwload: "https://rbxurl.pro/TXT-UVA"
+            download: "https://rbxurl.pro/txt-uva"
         },
         {
             title: "BoltWeen",
             version: "0.79",
             image: "assets/imagens/BOLTWEEN.png",
-            donwload: "https://rbxurl.pro/TXT-WEEN"
+            download: "https://rbxurl.pro/txt-ween"
         },
         {
             title: "Galaxy1",
             version: "0.79",
             image: "assets/imagens/GALAXY1.png",
-            donwload: "https://rbxurl.pro/TXT-GLXK"
+            download: "https://rbxurl.pro/txt-glxk"
         },
         {
             title: "GalaxyBolt",
             version: "0.79",
             image: "assets/imagens/GALAXYBOLT.png",
-            donwload: "https://rbxurl.pro/TXT-GLXB"
+            download: "https://rbxurl.pro/txt-glxb"
         }
     ];
 }

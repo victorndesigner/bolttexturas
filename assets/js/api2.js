@@ -1,5 +1,5 @@
 // Defina a versão do script aqui
-const scriptVersion = "0.81";
+const scriptVersion = "0.80";
 
 // Lista de postagens com suas respectivas versões
 function getPosts() {
@@ -8,118 +8,118 @@ function getPosts() {
             title: "SemTextura",
             version: "0.80",
             image: "assets/imagens/REVIVER00.png",
-            donwload: "https://rbxurl.pro/RVV-STXT-STEAM"
+            download: "https://rbxurl.pro/rvv-stxt-steam"
         },
         {
             title: "MegaLite",
             version: "0.80",
             image: "assets/imagens/REVIVER01.png",
-            donwload: "https://rbxurl.pro/RVV-MGLT"
+            download: "https://rbxurl.pro/rvv-mglt"
         },
         {
             title: "MegaLite2",
             version: "0.79",
             image: "assets/imagens/REVIVER02.png",
-            donwload: "https://rbxurl.pro/RVV-MGLT2"
+            download: "https://rbxurl.pro/rvv-mglt2"
         },
         {
             title: "StumbleBolt",
             version: "0.79",
             image: "assets/imagens/REVIVER03.png",
-            donwload: "https://rbxurl.pro/RVV-STB"
+            download: "https://rbxurl.pro/rvv-stb"
         },
         {
             title: "StumbleBolt2",
             version: "0.79",
             image: "assets/imagens/REVIVER04.png",
-            donwload: "https://rbxurl.pro/RVV-STB2"
+            download: "https://rbxurl.pro/rvv-stb2"
         },
         {
             title: "StumbleGodz",
             version: "0.79",
             image: "assets/imagens/REVIVER05.png",
-            donwload: "https://rbxurl.pro/RVV-GODZ"
+            download: "https://rbxurl.pro/rvv-godz"
         },
         {
-            title: "StumbleGodzEX",
+            title: "StumbleGodzExc",
             version: "0.80",
             image: "assets/imagens/REVIVER06.png",
-            donwload: "https://rbxurl.pro/RVV-GODZEX"
+            download: "https://rbxurl.pro/rvv-godzex"
         },
         {
             title: "GotiGreen",
             version: "0.80",
             image: "assets/imagens/REVIVER07.png",
-            donwload: "https://rbxurl.pro/RVV-GOTI"
+            download: "https://rbxurl.pro/rvv-goti"
         },
         {
             title: "GotiCartoon",
             version: "0.80",
             image: "assets/imagens/REVIVER18.png",
-            donwload: "https://rbxurl.pro/RVV-TOON"
+            download: "https://rbxurl.pro/rvv-toon"
         },
         {
             title: "Yellow Otimizada",
             version: "0.79",
             image: "assets/imagens/REVIVER08.png",
-            donwload: "https://rbxurl.pro/RVV-YLW"
+            download: "https://rbxurl.pro/rvv-ylw"
         },
         {
             title: "MegaLite Reshade",
             version: "0.79",
             image: "assets/imagens/REVIVER09.png",
-            donwload: "https://rbxurl.pro/RVV-MGLTRE"
+            download: "https://rbxurl.pro/rvv-mgltre"
         },
         {
             title: "Reshade",
             version: "0.79",
             image: "assets/imagens/REVIVER10.png",
-            donwload: "https://rbxurl.pro/RVV-RE"
+            download: "https://rbxurl.pro/rvv-re"
         },
         {
             title: "StumblePink",
             version: "0.79",
             image: "assets/imagens/REVIVER11.png",
-            donwload: "https://rbxurl.pro/RVV-PINK"
+            download: "https://rbxurl.pro/rvv-pink"
         },
         {
             title: "BoltAgua",
             version: "0.80",
             image: "assets/imagens/REVIVER12.png",
-            donwload: "https://rbxurl.pro/RVV-AGUA"
+            download: "https://rbxurl.pro/rvv-agua"
         },
         {
             title: "BoltAstaxzz",
             version: "0.79",
             image: "assets/imagens/REVIVER13.png",
-            donwload: "https://rbxurl.pro/RVV-BAZ"
+            download: "https://rbxurl.pro/rvv-baz"
         },
         {
             title: "DarkUva",
             version: "0.79",
             image: "assets/imagens/REVIVER14.png",
-            donwload: "https://rbxurl.pro/RVV-UVA"
+            download: "https://rbxurl.pro/rvv-uva"
         },
         {
             title: "BoltWeen",
             version: "0.79",
             image: "assets/imagens/REVIVER15.png",
-            donwload: "https://rbxurl.pro/RVV-WEEN"
+            download: "https://rbxurl.pro/rvv-ween"
         },
         {
             title: "Galaxy1",
             version: "0.79",
             image: "assets/imagens/REVIVER16.png",
-            donwload: "https://rbxurl.pro/RVV-GLXK"
+            download: "https://rbxurl.pro/rvv-glxk"
         },
         {
             title: "GalaxyBolt",
             version: "0.79",
             image: "assets/imagens/REVIVER17.png",
-            donwload: "https://rbxurl.pro/RVV-GLXB"
+            download: "https://rbxurl.pro/rvv-glxb"
         }
     ];
-};
+}
 
 // Função para renderizar as postagens
 function renderPosts(posts) {
