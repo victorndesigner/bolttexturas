@@ -1,141 +1,129 @@
+// Defina a versão do script aqui
+const scriptVersion = "0.80";
+
+// Lista de postagens com suas respectivas versões
 function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            donwload: "https://rbxurl.pro/TXT-MGLT-STEAM"
+            donwload: "https://sysurl.com.br/TXT-MGLT"
         },
         {
             title: "MegaLite2",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLT2"
         },
         {
             title: "StumbleBolt",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/STUMBLEBOLT.png",
-            donwload: "https://rbxurl.pro/TXT-STB-STEAM"
+            donwload: "https://sysurl.com.br/TXT-STB"
         },
         {
             title: "StumbleBolt2",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
-            donwload: "https://rbxurl.pro/TXT-STB2-STEAM"
+            donwload: "https://sysurl.com.br/TXT-STB2"
         },
         {
             title: "StumbleGodz",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/STUMBLEGODZ.png",
-            donwload: "https://rbxurl.pro/TXT-GODZ-STEAM"
+            donwload: "https://sysurl.com.br/TXT-GODZ"
         },
         {
             title: "StumbleGodzEX",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/STUMBLEGODZEXC.png",
-            donwload: "https://rbxurl.pro/TXT-GODZEX-STEAM"
+            donwload: "https://sysurl.com.br/TXT-GODZEX"
         },
         {
             title: "GotiGreen",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/GOTIGREEN.png",
-            donwload: "https://rbxurl.pro/TXT-GOTI-STEAM"
+            donwload: "https://sysurl.com.br/TXT-GOTI"
         },
         {
             title: "GotiCartoon",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/GOTICARTOON.png",
-            donwload: "https://rbxurl.pro/TXT-TOON-STEAM"
+            donwload: "https://sysurl.com.br/TXT-TOON"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
-            donwload: "https://rbxurl.pro/TXT-YLW-STEAM"
+            donwload: "https://sysurl.com.br/TXT-YLW"
         },
         {
             title: "MegaLite Reshade",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             donwload: "https://sysurl.com.br/TXT-MGLTRE"
         },
         {
             title: "Reshade",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/RESHADER.png",
-            donwload: "https://rbxurl.pro/TXT-RE-STEAM"
+            donwload: "https://sysurl.com.br/TXT-RE"
         },
         {
             title: "StumblePink",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/STUMBLEPINK.png",
             donwload: "https://sysurl.com.br/TXT-PINK"
         },
         {
             title: "BoltAgua",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/BOLTAGUA.png",
-            donwload: "https://rbxurl.pro/TXT-AGUA-STEAM"
+            donwload: "https://sysurl.com.br/TXT-AGUA"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/BOLTAXZZ.png",
-            donwload: "https://rbxurl.pro/TXT-BAZ-STEAM"
+            donwload: "https://sysurl.com.br/TXT-BAZ"
         },
         {
             title: "DarkUva",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/DARKUVA.png",
-            donwload: "https://rbxurl.pro/TXT-UVA-STEAM"
+            donwload: "https://sysurl.com.br/TXT-UVA"
         },
         {
             title: "BoltWeen",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/BOLTWEEN.png",
-            donwload: "https://rbxurl.pro/TXT-WEEN-STEAM"
+            donwload: "https://sysurl.com.br/TXT-WEEN"
         },
         {
             title: "Galaxy1",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/GALAXY1.png",
-            donwload: "https://rbxurl.pro/TXT-GLXK-STEAM"
+            donwload: "https://sysurl.com.br/TXT-GLXK"
         },
         {
             title: "GalaxyBolt",
-            version: "0.78.1",
+            version: "0.79",
             image: "assets/imagens/GALAXYBOLT.png",
-            donwload: "https://rbxurl.pro/TXT-GBOLT-STEAM"
+            donwload: "https://sysurl.com.br/TXT-GLXB"
         }
     ];
 }
 
-async function getVersion() {
-    let returnVersion;
-    await fetch('https://astax-stumble.vercel.app/shared')
-        .then(r => r.json())
-        .then(data => {
-            let version = data.Versions.AndroidLastVersionAvailable;
-            returnVersion = version;
-        });
-
-    return returnVersion;
-}
-
-async function renderPosts(posts) {
-    const sg_version = await getVersion();
+// Função para renderizar as postagens
+function renderPosts(posts) {
     const postsDisponiveis = [];
     const postsIndisponiveis = [];
 
     posts.forEach(postagem => {
-        const postDisponivel = postagem.version == sg_version;
+        const postDisponivel = postagem.version === scriptVersion;
 
         if (postDisponivel) {
-            let steamButton = postagem.steam ? `<a href="${postagem.steam}" class="purple-button">Steam</a>` : '';
-            let mobileButton = postagem.mobile ? `<a href="${postagem.mobile}" class="purple-button">Mobile</a>` : '';
-            let donwloadButton = postagem.donwload ? `<a href="${postagem.donwload}" class="purple-button">donwload</a>` : '';
-
             postsDisponiveis.push(`
                 <div class="col-lg-3 col-sm-6 post-item">
                     <div class="item">
@@ -144,9 +132,7 @@ async function renderPosts(posts) {
                         </span>
                         <h4>${postagem.title}<br><span style="color: rgb(208, 190, 233);">${postagem.version}</span></h4>
                         <div class="button-container">
-                            ${steamButton}
-                            ${mobileButton}
-                            ${donwloadButton}
+                            <a href="${postagem.download}" class="purple-button">Download</a>
                         </div>
                     </div>
                 </div>
@@ -171,16 +157,32 @@ async function renderPosts(posts) {
     `;
 }
 
-async function init() {
-    const postagens = await getPosts();
-    renderPosts(postagens);
+// Função para adicionar a barra de pesquisa
+function addSearchBar() {
+    const searchHtml = `
+        <div class="searchDiv">
+            <form id="searchForm">
+                <input type="text" id="searchInput" placeholder="Digite aqui..." value="">
+                <button type="submit">Buscar</button>
+            </form>
+        </div>
+    `;
+    document.querySelector('.heading-section').insertAdjacentHTML('afterbegin', searchHtml);
 
-    document.getElementById('searchInput').addEventListener('input', function() {
-        const searchText = this.value.toLowerCase();
+    // Adiciona o evento de escuta para a barra de pesquisa
+    document.getElementById('searchForm').addEventListener('submit', function(event) {
+        event.preventDefault(); // Previne o envio do formulário
+        const searchText = document.getElementById('searchInput').value.toLowerCase();
         const filteredPosts = postagens.filter(post => post.title.toLowerCase().includes(searchText));
         renderPosts(filteredPosts);
     });
 }
 
-init();
+// Função inicial
+async function init() {
+    const postagens = await getPosts();
+    renderPosts(postagens);
+    addSearchBar(); // Adiciona a barra de pesquisa
+}
 
+init();
