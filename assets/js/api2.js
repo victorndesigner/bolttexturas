@@ -8,134 +8,115 @@ function getPosts() {
             title: "SemTextura",
             version: "0.80",
             image: "assets/imagens/REVIVER00.png",
-            steam: "https://rbxurl.pro/rvv-stxt-steam",
-            mobile: "https://rbxurl.pro/rvv-stxt-mobile"
+            download: "https://rbxurl.pro/rvv-stxt-steam"
         },
         {
             title: "MegaLite",
             version: "0.80",
             image: "assets/imagens/REVIVER01.png",
-            steam: "https://rbxurl.pro/rvv-mglt-steam",
-            mobile: "https://rbxurl.pro/rvv-mglt-mobile"
+            download: "https://rbxurl.pro/rvv-mglt"
         },
         {
             title: "MegaLite2",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER02.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-mglt2"
         },
         {
             title: "StumbleBolt",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER03.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-stb"
         },
         {
             title: "StumbleBolt2",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER04.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-stb2"
         },
         {
             title: "StumbleGodz",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER05.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-godz"
         },
         {
-            title: "StumbleGodzEX",
+            title: "StumbleGodzExc",
             version: "0.80",
             image: "assets/imagens/REVIVER06.png",
-            steam: "https://rbxurl.pro/rvv-godzex-steam",
-            mobile: "https://rbxurl.pro/rvv-godzex-mobile"
+            download: "https://rbxurl.pro/rvv-godzex"
         },
         {
             title: "GotiGreen",
             version: "0.80",
             image: "assets/imagens/REVIVER07.png",
-            steam: "https://rbxurl.pro/rvv-goti-steam",
-            mobile: "https://rbxurl.pro/rvv-goti-mobile"
+            download: "https://rbxurl.pro/rvv-goti"
         },
         {
             title: "GotiCartoon",
             version: "0.80",
             image: "assets/imagens/REVIVER18.png",
-             steam: "https://rbxurl.pro/rvv-toon-steam",
-            mobile: "https://rbxurl.pro/rvv-toon-mobile"
+            download: "https://rbxurl.pro/rvv-toon"
         },
         {
             title: "Yellow Otimizada",
             version: "0.79",
             image: "assets/imagens/REVIVER08.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-ylw"
         },
         {
             title: "MegaLite Reshade",
             version: "0.79",
             image: "assets/imagens/REVIVER09.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-mgltre"
         },
         {
             title: "Reshade",
             version: "0.79",
             image: "assets/imagens/REVIVER10.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-re"
         },
         {
             title: "StumblePink",
             version: "0.79",
             image: "assets/imagens/REVIVER11.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-pink"
         },
         {
             title: "BoltAgua",
             version: "0.80",
             image: "assets/imagens/REVIVER12.png",
-              steam: "https://rbxurl.pro/rvv-agua-mobile",
-            mobile: "https://rbxurl.pro/rvv-agua-mobile"
+            download: "https://rbxurl.pro/rvv-agua"
         },
         {
             title: "BoltAstaxzz",
             version: "0.79",
             image: "assets/imagens/REVIVER13.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-baz"
         },
         {
             title: "DarkUva",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/REVIVER14.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-uva"
         },
         {
             title: "BoltWeen",
             version: "0.79",
             image: "assets/imagens/REVIVER15.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-ween"
         },
         {
             title: "Galaxy1",
             version: "0.79",
             image: "assets/imagens/REVIVER16.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-glxk"
         },
         {
             title: "GalaxyBolt",
             version: "0.79",
             image: "assets/imagens/REVIVER17.png",
-            steam: "#",
-            mobile: "#"
+            download: "https://rbxurl.pro/rvv-glxb"
         }
     ];
 }
@@ -157,8 +138,7 @@ function renderPosts(posts) {
                         </span>
                         <h4>${postagem.title}<br><span style="color: rgb(208, 190, 233);">${postagem.version}</span></h4>
                         <div class="button-container">
-                            <a href="${postagem.steam}" class="purple-button">Steam</a>
-                            <a href="${postagem.mobile}" class="purple-button">Mobile</a>
+                            <a href="${postagem.download}" class="purple-button">Download</a>
                         </div>
                     </div>
                 </div>
