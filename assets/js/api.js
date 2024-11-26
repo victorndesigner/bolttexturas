@@ -60,13 +60,13 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             download: "https://rbxurl.pro/txt-mgltre"
         },
         {
             title: "Reshade",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/RESHADER.png",
             download: "https://rbxurl.pro/txt-re"
         },
@@ -96,19 +96,19 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/BOLTWEEN.png",
             download: "https://rbxurl.pro/txt-ween"
         },
         {
             title: "Galaxy1",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/GALAXY1.png",
             download: "https://rbxurl.pro/txt-glxk"
         },
         {
             title: "GalaxyBolt",
-            version: "0.79",
+            version: "0.80",
             image: "assets/imagens/GALAXYBOLT.png",
             download: "https://rbxurl.pro/txt-glxb"
         }
