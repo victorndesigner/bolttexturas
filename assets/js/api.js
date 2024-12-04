@@ -1,121 +1,136 @@
-// Defina a versão do script aqui
-const scriptVersion = "0.80";
+const scriptVersion = "0.80.5";
 
-// Lista de postagens com suas respectivas versões
 function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            download: "https://rbxurl.pro/txt-mglt"
+            steam: "https://rbxurl.pro/txt-mglt-steam",
+            mobile: "https://rbxurl.pro/txt-mglt-mobile"
         },
         {
             title: "MegaLite2",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
-            download: "https://rbxurl.pro/txt-mglt2"
+            steam: "https://rbxurl.pro/txt-mglt2-steam",
+            mobile: "https://rbxurl.pro/txt-mglt2-mobile"
         },
         {
             title: "StumbleBolt",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/STUMBLEBOLT.png",
-            download: "https://rbxurl.pro/txt-stb"
+            steam: "https://rbxurl.pro/txt-stb-steam",
+            mobile: "https://rbxurl.pro/txt-stb-mobile"
         },
         {
             title: "StumbleBolt2",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
-            download: "https://rbxurl.pro/txt-stb2"
+            steam: "https://rbxurl.pro/txt-stb2-steam",
+            mobile: "https://rbxurl.pro/txt-stb2-mobile"
         },
         {
             title: "StumbleGodz",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/STUMBLEGODZ.png",
-            download: "https://rbxurl.pro/txt-godz"
+            steam: "https://rbxurl.pro/txt-godz-steam",
+            mobile: "https://rbxurl.pro/txt-godz-mobile"
         },
         {
             title: "StumbleGodzExc",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/STUMBLEGODZEXC.png",
-            download: "https://rbxurl.pro/txt-godzex"
+            steam: "https://rbxurl.pro/txt-godzex-steam",
+            mobile: "https://rbxurl.pro/txt-godzex-mobile"
         },
         {
             title: "GotiGreen",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/GOTIGREEN.png",
-            download: "https://rbxurl.pro/txt-goti"
+            steam: "https://rbxurl.pro/txt-goti-steam",
+            mobile: "https://rbxurl.pro/txt-goti-mobile"
         },
         {
             title: "GotiCartoon",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/GOTICARTOON.png",
-            download: "https://rbxurl.pro/txt-toon"
+            steam: "https://rbxurl.pro/txt-toon-steam",
+            mobile: "https://rbxurl.pro/txt-toon-mobile"
         },
         {
             title: "Yellow Otimizada",
-            version: "0.79",
+            version: "0.80.5",
             image: "assets/imagens/YELLOWOTIMIZADA.png",
-            download: "https://rbxurl.pro/txt-ylw"
+            steam: "https://rbxurl.pro/txt-ylw-steam",
+            mobile: "https://rbxurl.pro/txt-ylw-mobile"
         },
         {
             title: "MegaLite Reshade",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
-            download: "https://rbxurl.pro/txt-mgltre"
+            steam: "https://rbxurl.pro/txt-mgltre-steam",
+            mobile: "https://rbxurl.pro/txt-mgltre-mobile"
         },
         {
             title: "Reshade",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/RESHADER.png",
-            download: "https://rbxurl.pro/txt-re"
+            steam: "https://rbxurl.pro/txt-re-steam",
+            mobile: "https://rbxurl.pro/txt-re-mobile"
         },
         {
             title: "StumblePink",
-            version: "0.79",
+            version: "0.80.5",
             image: "assets/imagens/STUMBLEPINK.png",
-            download: "https://rbxurl.pro/txt-pink"
+            steam: "https://rbxurl.pro/txt-pink-steam",
+            mobile: "https://rbxurl.pro/txt-pink-mobile"
         },
         {
             title: "BoltAgua",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/BOLTAGUA.png",
-            download: "https://rbxurl.pro/txt-agua"
+            steam: "https://rbxurl.pro/txt-agua-steam",
+            mobile: "https://rbxurl.pro/txt-agua-mobile"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.79",
+            version: "0.80.5",
             image: "assets/imagens/BOLTAXZZ.png",
-            download: "https://rbxurl.pro/txt-baz"
+            steam: "https://rbxurl.pro/txt-baz-steam",
+            mobile: "https://rbxurl.pro/txt-baz-mobile"
         },
         {
             title: "DarkUva",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/DARKUVA.png",
-            download: "https://rbxurl.pro/txt-uva"
+            steam: "https://rbxurl.pro/txt-uva-steam",
+            mobile: "https://rbxurl.pro/txt-uva-mobile"
         },
         {
             title: "BoltWeen",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/BOLTWEEN.png",
-            download: "https://rbxurl.pro/txt-ween"
+            steam: "https://rbxurl.pro/txt-ween-steam",
+            mobile: "https://rbxurl.pro/txt-ween-mobile"
         },
         {
             title: "Galaxy1",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/GALAXY1.png",
-            download: "https://rbxurl.pro/txt-glxk"
+            steam: "https://rbxurl.pro/txt-glxk-steam",
+            mobile: "https://rbxurl.pro/txt-glxk-mobile"
         },
         {
             title: "GalaxyBolt",
-            version: "0.80",
+            version: "0.80.5",
             image: "assets/imagens/GALAXYBOLT.png",
-            download: "https://rbxurl.pro/txt-glxb"
+            steam: "https://rbxurl.pro/txt-glxb-steam",
+            mobile: "https://rbxurl.pro/txt-glxb-mobile"
         }
     ];
 }
 
-// Função para renderizar as postagens
 function renderPosts(posts) {
     const postsDisponiveis = [];
     const postsIndisponiveis = [];
@@ -132,7 +147,8 @@ function renderPosts(posts) {
                         </span>
                         <h4>${postagem.title}<br><span style="color: rgb(208, 190, 233);">${postagem.version}</span></h4>
                         <div class="button-container">
-                            <a href="${postagem.download}" class="purple-button">Download</a>
+                            <a href="${postagem.steam}" class="purple-button">Steam</a>
+                            <a href="${postagem.mobile}" class="purple-button">Mobile</a>
                         </div>
                     </div>
                 </div>
@@ -157,7 +173,6 @@ function renderPosts(posts) {
     `;
 }
 
-// Função para adicionar a barra de pesquisa
 function addSearchBar() {
     const searchHtml = `
         <div class="searchDiv">
@@ -169,20 +184,18 @@ function addSearchBar() {
     `;
     document.querySelector('.heading-section').insertAdjacentHTML('afterbegin', searchHtml);
 
-    // Adiciona o evento de escuta para a barra de pesquisa
     document.getElementById('searchForm').addEventListener('submit', function(event) {
-        event.preventDefault(); // Previne o envio do formulário
+        event.preventDefault();
         const searchText = document.getElementById('searchInput').value.toLowerCase();
         const filteredPosts = postagens.filter(post => post.title.toLowerCase().includes(searchText));
         renderPosts(filteredPosts);
     });
 }
 
-// Função inicial
 async function init() {
     const postagens = await getPosts();
     renderPosts(postagens);
-    addSearchBar(); // Adiciona a barra de pesquisa
+    addSearchBar();
 }
 
 init();
