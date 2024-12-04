@@ -6,8 +6,8 @@ function getPosts() {
             title: "SemTextura",
             version: "0.80.5",
             image: "assets/imagens/REVIVER00.png",
-            steam: "https://rbxurl.pro/rvv-srvv-steam",
-            mobile: "https://rbxurl.pro/rvv-srvv-mobile"
+            steam: "https://rbxurl.pro/rvv-stxt-steam",
+            mobile: "https://rbxurl.pro/rvv-stxt-mobile"
         },
         {
             title: "MegaLite",
