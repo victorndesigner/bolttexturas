@@ -6,7 +6,7 @@ function getPosts() {
             title: "SemTextura",
             version: "0.83.1",
             image: "assets/imagens/REVIVER00.png",
-            steam: "https://sannerurl.com/rvv-stxt-ste",
+            steam: "https://sannerurl.com/rvv-stext-ste",
             mobile: "https://sannerurl.com/rvv-stxt-mob"
         },
         {
