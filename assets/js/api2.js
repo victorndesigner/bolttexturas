@@ -6,21 +6,21 @@ function getPosts() {
             title: "SemTextura",
             version: "0.83.6",
             image: "assets/imagens/REVIVER00.png",
-            steam: "https://sannerurl.com/rvv-stext-ste",
+            steam: "https://sannerurl.com/rvv-stext-st",
             mobile: "https://sannerurl.com/rvv-stxt-mob"
         },
         {
             title: "MegaLite",
             version: "0.83.6",
             image: "assets/imagens/REVIVER01.png",
-            steam: "https://sannerurl.com/rvv-mglt-ste",
+            steam: "https://sannerurl.com/rvv-mglt-st",
             mobile: "https://sannerurl.com/rvv-mglt-mob"
         },
         {
             title: "MegaLite2",
             version: "0.83.6",
             image: "assets/imagens/REVIVER02.png",
-            steam: "https://sannerurl.com/rvv-mglt2-ste",
+            steam: "https://sannerurl.com/rvv-mglt2-st",
             mobile: "https://sannerurl.com/rvv-mglt2-mob"
         },
         {

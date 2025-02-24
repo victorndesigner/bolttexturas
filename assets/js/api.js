@@ -6,14 +6,14 @@ function getPosts() {
             title: "MegaLite",
             version: "0.83.6",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
-            steam: "https://sannerurl.com/txt-mglt-ste",
+            steam: "https://sannerurl.com/txt-mglt-st",
             mobile: "https://sannerurl.com/txt-mglt-mob"
         },
         {
             title: "MegaLite2",
             version: "0.83.6",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
-            steam: "https://sannerurl.com/txt-mglt2-ste",
+            steam: "https://sannerurl.com/txt-mglt2-st",
             mobile: "https://sannerurl.com/txt-mglt2-mobi"
         },
         {
