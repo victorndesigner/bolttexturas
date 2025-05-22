@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-cyborg-gaming.css">
     <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/lang.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/search.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -61,6 +62,11 @@
             <div class="row">
                 <div class="col-12">
                     <nav class="main-nav">
+    <!-- Seletor de Idioma -->
+    <div class="language-selector">
+        <button id="lang-br" onclick="setLanguage('pt')" class="active">🇧🇷</button>
+        <button id="lang-us" onclick="setLanguage('en')">🇺🇸</button>
+     </div>
                         <a class="logo">
                             <img src="assets/imagens/LOGO.png" alt="">
                         </a>
@@ -184,7 +190,7 @@
                         </div>
                     </div>
                     <div class="video-post">
-                        <h2 class="video-title">TIRAR TEXTURA STEAM E MOBILE</h2>
+                        <h2 class="video-title">REMOVER TEXTURA STEAM E MOBILE</h2>
                         <div class="video-container">
                             <video class="responsive-video" controls poster="assets/tutoriais/TIRAR-TEXTURA.jpg">
                                 <source src="assets/videos/TIRAR-TEXTURA.mp4" type="video/mp4">
@@ -196,7 +202,7 @@
                             <div class="play-button"></div>
                         </div>
                     </div>
-                    <div class="video-post">
+                    <!--<div class="video-post">
                         <h2 class="video-title">GUYS01 E KEY</h2>
                         <div class="video-container">
                             <video class="responsive-video" controls poster="assets/tutoriais/GUYS01+KEY.jpg">
@@ -211,7 +217,7 @@
                             </div>
                             <div class="play-button"></div>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
@@ -224,6 +230,7 @@
     <script src="assets/js/tabs.js"></script>
     <script src="assets/js/popup.js"></script>
     <script src="assets/js/custom.js"></script>
+    <script src="assets/js/langtuto.js"></script>
     <script src="assets/js/tuto.js"></script> <!-- Link para o novo arquivo JS -->
 
 <!-- Google tag (gtag.js) -->
