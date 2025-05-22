@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-cyborg-gaming.css">
     <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/lang.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
 
@@ -59,7 +60,11 @@
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
-
+    <!-- Seletor de Idioma -->
+    <div class="language-selector">
+      <button id="lang-br" onclick="setLanguage('pt')" class="active">🇧🇷</button>
+      <button id="lang-us" onclick="setLanguage('en')">🇺🇸</button>
+   </div>
                     <a class="logo">
                         <img src="assets/imagens/LOGO.png" alt="">
                     </a>
@@ -69,7 +74,7 @@
                       <li><a href="/stumblecups">StumbleCups</a></li>
                       <!--<li><a href="/vantagens">Vantagens</a></li>-->
                       <li><a href="/tutoriais">Tutoriais</a></li>
-                      <li><a href="/pngspacks">Png packs</a></li>
+                      <li><a href="/pngspacks">Packs de Png</a></li>
                       <li><a href="/postagens" class="active">Postagens</a></li> 
                       <li><a href="/perfil">Perfil <img src="assets/imagens/ICON.png" alt=""></a></li>
                     </ul>   
@@ -164,6 +169,7 @@
   <script src="assets/js/tabs.js"></script>
   <script src="assets/js/popup.js"></script>
   <script src="assets/js/custom.js"></script>
+  <script src="assets/js/langpost.js"></script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y368X2RKMB"></script>
