@@ -4,7 +4,7 @@ function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS01.png",
             steam: "https://sannerurl.com/cups-mglt-st",
             mobile: "https://sannerurl.com/cups-mglt-mo"
@@ -18,7 +18,7 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS03.png",
             steam: "https://sannerurl.com/cups-stb-st",
             mobile: "https://sannerurl.com/cups-stb-mo"
