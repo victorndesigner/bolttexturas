@@ -147,7 +147,7 @@ function renderPosts(posts) {
                         </span>
                         <h4>${postagem.title}<br><span style="color: rgb(208, 190, 233);">${postagem.version}</span></h4>
                         <div class="button-container">
-                            <!--<a href="${postagem.steam}" class="purple-button">Steam</a>-->
+                            <a href="${postagem.steam}" class="purple-button">Steam</a>
                             <a href="${postagem.mobile}" class="purple-button">Mobile</a>
                         </div>
                     </div>

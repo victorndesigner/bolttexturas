@@ -11,7 +11,7 @@ function getPosts() {
         },
         {
             title: "MegaLite2",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS02.png",
             steam: "https://sannerurl.com/cups-mglt2-st",
             mobile: "https://sannerurl.com/cups-mglt2-mo"
@@ -25,7 +25,7 @@ function getPosts() {
         },
         {
             title: "StumbleBolt2",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS04.png",
             steam: "https://sannerurl.com/cups-stb2-st",
             mobile: "https://sannerurl.com/cups-stb2-mo"
@@ -147,7 +147,7 @@ function renderPosts(posts) {
                         </span>
                         <h4>${postagem.title}<br><span style="color: rgb(208, 190, 233);">${postagem.version}</span></h4>
                         <div class="button-container">
-                            <!--<a href="${postagem.steam}" class="purple-button">Steam</a>-->
+                            <a href="${postagem.steam}" class="purple-button">Steam</a>
                             <a href="${postagem.mobile}" class="purple-button">Mobile</a>
                         </div>
                     </div>

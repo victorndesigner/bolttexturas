@@ -17,7 +17,7 @@ const translations = {
         "TEXTURA MOBILE MÉTODO 1",
         "TEXTURA MOBILE MÉTODO 2",
         "TEXTURA STEAM",
-        "REMOVER TEXTURA STEAM E MOBILE",
+        "COMO REMOVER TEXTURA",
         "GUYS01 E KEY"
       ]
     },
@@ -39,7 +39,7 @@ const translations = {
         "TEXTURE MOBILE METHOD 1",
         "TEXTURE MOBILE METHOD 2",
         "STEAM TEXTURE",
-        "REMOVE TEXTURE STEAM AND MOBILE",
+        "HOW TO REMOVE TEXTURE",
         "GUYS01 AND KEY"
       ]
     }
