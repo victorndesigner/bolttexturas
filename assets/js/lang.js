@@ -2,7 +2,7 @@ const translations = {
     pt: {
       inicio: "Inicio",
       stumblecups: "StumbleCups",
-      vantagens: "Vantagens",
+      reviver: "Reviver",
       tutoriais: "Tutoriais",
       pngpacks: "Packs de png",
       postagens: "Postagens",
@@ -24,7 +24,7 @@ const translations = {
     en: {
       inicio: "Home",
       stumblecups: "StumbleCups",
-      vantagens: "Advantages",
+      reviver: "Respawn",
       tutoriais: "Tutorials",
       pngpacks: "Png Packs",
       postagens: "Posts",
@@ -56,6 +56,7 @@ const translations = {
   
     // Navegação
     document.querySelector('li a[href="/"]').innerText = t.inicio;
+    document.querySelector('li a[href="/reviver"]').innerText = t.reviver;
     document.querySelector('li a[href="/stumblecups"]').innerText = t.stumblecups;
     document.querySelector('li a[href="/tutoriais"]').innerText = t.tutoriais;
     document.querySelector('li a[href="/pngspacks"]').innerText = t.pngpacks;
@@ -80,8 +81,8 @@ const translations = {
     const youtubeBtn = document.querySelector('.header-text .main-button a');
     if (youtubeBtn) youtubeBtn.innerText = t.youtube;
   
-    const guysH4 = document.querySelector('.col-lg-12 > h4');
-    if (guysH4) guysH4.innerHTML = `${t.guys} <span style="font-weight: 400; color: #8A2BE2;">0.86.5</span>`;
+    //const guysH4 = document.querySelector('.col-lg-12 > h4');
+    //if (guysH4) guysH4.innerHTML = `${t.guys} <span style="font-weight: 400; color: #8A2BE2;">0.86.6</span>`;
   
     const normalBtn = document.querySelector('.main-button a[href*="normal"]');
     const cloneBtn = document.querySelector('.main-button a[href*="clone"]');

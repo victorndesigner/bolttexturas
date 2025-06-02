@@ -46,7 +46,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS07.png",
             steam: "https://sannerurl.com/cups-goti-st",
             mobile: "https://sannerurl.com/cups-goti-mo"
@@ -74,7 +74,7 @@ function getPosts() {
         },
         {
             title: "Reshade",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS10.png",
             steam: "https://sannerurl.com/cups-re-st",
             mobile: "https://sannerurl.com/cups-re-mo"

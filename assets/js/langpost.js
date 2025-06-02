@@ -2,7 +2,7 @@ const translations = {
     pt: {
       inicio: "Inicio",
       stumblecups: "StumbleCups",
-      vantagens: "Vantagens",
+      reviver: "Reviver",
       tutoriais: "Tutoriais",
       pngpacks: "Packs de Png",
       postagens: "Postagens",
@@ -13,7 +13,7 @@ const translations = {
     en: {
       inicio: "Home",
       stumblecups: "StumbleCups",
-      vantagens: "Advantages",
+      reviver: "Respawn",
       tutoriais: "Tutorials",
       pngpacks: "Png Packs",
       postagens: "Posts",
@@ -34,6 +34,7 @@ const translations = {
   
     // Menu
     document.querySelector('a[href="/"]').innerText = t.inicio;
+    document.querySelector('li a[href="/reviver"]').innerText = t.reviver;
     document.querySelector('a[href="/stumblecups"]').innerText = t.stumblecups;
     document.querySelector('a[href="/tutoriais"]').innerText = t.tutoriais;
     document.querySelector('a[href="/pngspacks"]').innerText = t.pngpacks;
