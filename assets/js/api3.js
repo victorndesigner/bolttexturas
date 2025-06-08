@@ -53,7 +53,7 @@ function getPosts() {
         },
         {
             title: "GotiCartoon",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS18.png",
             steam: "https://sannerurl.com/cups-toon-st",
             mobile: "https://sannerurl.com/cups-toon-mo"
@@ -67,7 +67,7 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS09.png",
             steam: "https://sannerurl.com/cups-mgltre-st",
             mobile: "https://sannerurl.com/cups-mgltre-mo"
@@ -95,7 +95,7 @@ function getPosts() {
         },
         {
             title: "BoltAstaxzz",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS13.png",
             steam: "https://sannerurl.com/cups-baz-st",
             mobile: "https://sannerurl.com/cups-baz-mo"
