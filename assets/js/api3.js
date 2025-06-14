@@ -81,7 +81,7 @@ function getPosts() {
         },
         {
             title: "StumblePink",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS11.png",
             steam: "https://sannerurl.com/cups-pink-st",
             mobile: "https://sannerurl.com/cups-pink-mo"
