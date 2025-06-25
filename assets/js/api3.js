@@ -88,7 +88,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS12.png",
             steam: "https://sannerurl.com/cups-agua-st",
             mobile: "https://sannerurl.com/cups-agua-mo"
@@ -116,7 +116,7 @@ function getPosts() {
         },
         {
             title: "Galaxy1",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS16.png",
             steam: "https://sannerurl.com/cups-glxk-st",
             mobile: "https://sannerurl.com/cups-glxk-mo"
