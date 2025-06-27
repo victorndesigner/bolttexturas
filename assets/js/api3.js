@@ -39,7 +39,7 @@ function getPosts() {
         },
         {
             title: "StumbleGodzExc",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS06.png",
             steam: "https://sannerurl.com/cups-godzex-st",
             mobile: "https://sannerurl.com/cups-godzex-mo"
@@ -102,7 +102,7 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS14.png",
             steam: "https://sannerurl.com/cups-uva-st",
             mobile: "https://sannerurl.com/cups-uva-mo"
