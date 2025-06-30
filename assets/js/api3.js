@@ -109,7 +109,7 @@ function getPosts() {
         },
         {
             title: "BoltWeen",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS15.png",
             steam: "https://sannerurl.com/cups-ween-st",
             mobile: "https://sannerurl.com/cups-ween-mo"
@@ -123,7 +123,7 @@ function getPosts() {
         },
         {
             title: "GalaxyBolt",
-            version: "0.50",
+            version: "0.56",
             image: "assets/imagens/CUPS17.png",
             steam: "https://sannerurl.com/cups-glxb-st",
             mobile: "https://sannerurl.com/cups-glxb-mo"
