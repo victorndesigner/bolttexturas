@@ -1,4 +1,4 @@
-const scriptVersion = "0.88.1";
+const scriptVersion = "0.88.2";
 
 function getPosts() {
     return [

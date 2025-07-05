@@ -1,10 +1,10 @@
-const scriptVersion = "0.88.1";
+const scriptVersion = "0.88.2";
 
 function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             steam: "https://sannerurl.com/txt-mglt-ste",
             mobile: "https://sannerurl.com/txt-mglt-mob"
@@ -18,21 +18,21 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/STUMBLEBOLT.png",
             steam: "https://sannerurl.com/txt-stb-ste",
             mobile: "https://sannerurl.com/txt-stb-mob"
         },
         {
             title: "StumbleBolt2",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             steam: "https://sannerurl.com/txt-stb2-ste",
             mobile: "https://sannerurl.com/txt-stb2-mob"
         },
         {
             title: "StumbleGodz",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/STUMBLEGODZ.png",
             steam: "https://sannerurl.com/txt-godz-ste",
             mobile: "https://sannerurl.com/txt-godz-mob"
@@ -67,7 +67,7 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             steam: "https://sannerurl.com/txt-mgltre-ste",
             mobile: "https://sannerurl.com/txt-mgltre-mob"
