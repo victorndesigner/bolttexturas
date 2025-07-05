@@ -11,7 +11,7 @@ function getPosts() {
         },
         {
             title: "MegaLite",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/REVIVER01.png",
             steam: "https://sannerurl.com/rvv-mglt-ste",
             mobile: "https://sannerurl.com/rvv-mglt-mob"
@@ -25,21 +25,21 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/REVIVER03.png",
             steam: "https://sannerurl.com/rvv-stb-ste",
             mobile: "https://sannerurl.com/rvv-stb-mob"
         },
         {
             title: "StumbleBolt2",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/REVIVER04.png",
             steam: "https://sannerurl.com/rvv-stb2-ste",
             mobile: "https://sannerurl.com/rvv-stb2-mob"
         },
         {
             title: "StumbleGodz",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/REVIVER05.png",
             steam: "https://sannerurl.com/rvv-godz-ste",
             mobile: "https://sannerurl.com/rvv-godz-mob"
@@ -74,7 +74,7 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.88.1",
+            version: "0.88.2",
             image: "assets/imagens/REVIVER09.png",
             steam: "https://sannerurl.com/rvv-mgltre-ste",
             mobile: "https://sannerurl.com/rvv-mgltre-mob"
