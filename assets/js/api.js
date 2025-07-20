@@ -1,10 +1,10 @@
-const scriptVersion = "0.88.2";
+const scriptVersion = "0.88.6";
 
 function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.88.2",
+            version: "0.88.6",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             steam: "https://sannerurl.com/txt-mglt-ste",
             mobile: "https://sannerurl.com/txt-mglt-mob"
@@ -18,7 +18,7 @@ function getPosts() {
         },
         {
             title: "StumbleBolt",
-            version: "0.88.2",
+            version: "0.88.6",
             image: "assets/imagens/STUMBLEBOLT.png",
             steam: "https://sannerurl.com/txt-stb-ste",
             mobile: "https://sannerurl.com/txt-stb-mob"
@@ -46,7 +46,7 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.88.2",
+            version: "0.88.6",
             image: "assets/imagens/GOTIGREEN.png",
             steam: "https://sannerurl.com/txt-goti-ste",
             mobile: "https://sannerurl.com/txt-goti-mob"
@@ -88,7 +88,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.88.2",
+            version: "0.88.6",
             image: "assets/imagens/BOLTAGUA.png",
             steam: "https://sannerurl.com/txt-agua-ste",
             mobile: "https://sannerurl.com/txt-agua-mob"
