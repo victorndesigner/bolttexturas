@@ -1,31 +1,31 @@
-const scriptVersion = "0.88.6";
+const scriptVersion = "0.88.7";
 
 function getPosts() {
     return [
         {
             title: "MegaLite",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/MEGALITEBOLTASTAX.png",
             steam: "https://sannerurl.com/txt-mglt-ste",
             mobile: "https://sannerurl.com/txt-mglt-mob"
         },
         {
             title: "MegaLite2",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/MEGALITE2.0BOLTASTAX.png",
             steam: "https://sannerurl.com/txt-mglt2-ste",
             mobile: "https://sannerurl.com/txt-mglt2-mobi"
         },
         {
             title: "StumbleBolt",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/STUMBLEBOLT.png",
             steam: "https://sannerurl.com/txt-stb-ste",
             mobile: "https://sannerurl.com/txt-stb-mob"
         },
         {
             title: "StumbleBolt2",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/STUMBLEBOLT2.0.png",
             steam: "https://sannerurl.com/txt-stb2-ste",
             mobile: "https://sannerurl.com/txt-stb2-mob"
@@ -46,14 +46,14 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/GOTIGREEN.png",
             steam: "https://sannerurl.com/txt-goti-ste",
             mobile: "https://sannerurl.com/txt-goti-mob"
         },
         {
             title: "GotiCartoon",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/GOTICARTOON.png",
             steam: "https://sannerurl.com/txt-toon-ste",
             mobile: "https://sannerurl.com/txt-toon-mob"
@@ -67,14 +67,14 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/RESHADERBOLTASTAX.png",
             steam: "https://sannerurl.com/txt-mgltre-ste",
             mobile: "https://sannerurl.com/txt-mgltre-mob"
         },
         {
             title: "Reshade",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/RESHADER.png",
             steam: "https://sannerurl.com/txt-re-ste",
             mobile: "https://sannerurl.com/txt-re-mob"
@@ -88,7 +88,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/BOLTAGUA.png",
             steam: "https://sannerurl.com/txt-agua-ste",
             mobile: "https://sannerurl.com/txt-agua-mob"
@@ -102,7 +102,7 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/DARKUVA.png",
             steam: "https://sannerurl.com/txt-uva-ste",
             mobile: "https://sannerurl.com/txt-uva-mob"

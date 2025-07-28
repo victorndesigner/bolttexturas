@@ -1,38 +1,38 @@
-const scriptVersion = "0.88.6";
+const scriptVersion = "0.88.7";
 
 function getPosts() {
     return [
         {
             title: "SemTextura",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER00.png",
             steam: "https://sannerurl.com/rvv-stext-ste",
             mobile: "https://sannerurl.com/rvv-stxt-mob"
         },
         {
             title: "MegaLite",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER01.png",
             steam: "https://sannerurl.com/rvv-mglt-ste",
             mobile: "https://sannerurl.com/rvv-mglt-mob"
         },
         {
             title: "MegaLite2",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER02.png",
             steam: "https://sannerurl.com/rvv-mglt2-ste",
             mobile: "https://sannerurl.com/rvv-mglt2-mob"
         },
         {
             title: "StumbleBolt",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER03.png",
             steam: "https://sannerurl.com/rvv-stb-ste",
             mobile: "https://sannerurl.com/rvv-stb-mob"
         },
         {
             title: "StumbleBolt2",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER04.png",
             steam: "https://sannerurl.com/rvv-stb2-ste",
             mobile: "https://sannerurl.com/rvv-stb2-mob"
@@ -53,14 +53,14 @@ function getPosts() {
         },
         {
             title: "GotiGreen",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER07.png",
             steam: "https://sannerurl.com/rvv-goti-ste",
             mobile: "https://sannerurl.com/rvv-goti-mob"
         },
         {
             title: "GotiCartoon",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER18.png",
             steam: "https://sannerurl.com/rvv-toon-ste",
             mobile: "https://sannerurl.com/rvv-toon-mob"
@@ -74,14 +74,14 @@ function getPosts() {
         },
         {
             title: "MegaLite Reshade",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER09.png",
             steam: "https://sannerurl.com/rvv-mgltre-ste",
             mobile: "https://sannerurl.com/rvv-mgltre-mob"
         },
         {
             title: "Reshade",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER10.png",
             steam: "https://sannerurl.com/rvv-re-ste",
             mobile: "https://sannerurl.com/rvv-re-mob"
@@ -95,7 +95,7 @@ function getPosts() {
         },
         {
             title: "BoltAgua",
-            version: "0.88.6",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER12.png",
             steam: "https://sannerurl.com/rvv-agua-ste",
             mobile: "https://sannerurl.com/rvv-agua-mob"
@@ -109,7 +109,7 @@ function getPosts() {
         },
         {
             title: "DarkUva",
-            version: "0.88.2",
+            version: "0.88.7",
             image: "assets/imagens/REVIVER14.png",
             steam: "https://sannerurl.com/rvv-uva-ste",
             mobile: "https://sannerurl.com/rvv-uva-mob"
