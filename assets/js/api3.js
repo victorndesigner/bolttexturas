@@ -39,7 +39,7 @@ function getPosts() {
         },
         {
             title: "StumbleGodzExc",
-            version: "0.55",
+            version: "0.56",
             image: "assets/imagens/CUPS06.png",
             steam: "https://sannerurl.com/cups-godzex-st",
             mobile: "https://sannerurl.com/cups-godzex-mo"
@@ -60,7 +60,7 @@ function getPosts() {
         },
         {
             title: "Yellow Otimizada",
-            version: "0.55",
+            version: "0.56",
             image: "assets/imagens/CUPS08.png",
             steam: "https://sannerurl.com/cups-ylw-st",
             mobile: "https://sannerurl.com/cups-ylw-mo"
@@ -81,7 +81,7 @@ function getPosts() {
         },
         {
             title: "StumblePink",
-            version: "0.55",
+            version: "0.56",
             image: "assets/imagens/CUPS11.png",
             steam: "https://sannerurl.com/cups-pink-st",
             mobile: "https://sannerurl.com/cups-pink-mo"
