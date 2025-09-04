@@ -39,7 +39,7 @@ function getPosts() {
         },
         {
             title: "StumbleGodzExc",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS06.png",
             steam: "https://sannerurl.com/cups-godzex-st",
             mobile: "https://sannerurl.com/cups-godzex-mo"
@@ -60,7 +60,7 @@ function getPosts() {
         },
         {
             title: "Yellow Otimizada",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS08.png",
             steam: "https://sannerurl.com/cups-ylw-st",
             mobile: "https://sannerurl.com/cups-ylw-mo"
@@ -81,49 +81,49 @@ function getPosts() {
         },
         {
             title: "StumblePink",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS11.png",
             steam: "https://sannerurl.com/cups-pink-st",
             mobile: "https://sannerurl.com/cups-pink-mo"
         },
         {
             title: "BoltAgua",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS12.png",
             steam: "https://sannerurl.com/cups-agua-st",
             mobile: "https://sannerurl.com/cups-agua-mo"
         },
         {
             title: "BoltAstaxzz",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS13.png",
             steam: "https://sannerurl.com/cups-baz-st",
             mobile: "https://sannerurl.com/cups-baz-mo"
         },
         {
             title: "DarkUva",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS14.png",
             steam: "https://sannerurl.com/cups-uva-st",
             mobile: "https://sannerurl.com/cups-uva-mo"
         },
         {
             title: "BoltWeen",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS15.png",
             steam: "https://sannerurl.com/cups-ween-st",
             mobile: "https://sannerurl.com/cups-ween-mo"
         },
         {
             title: "Galaxy1",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS16.png",
             steam: "https://sannerurl.com/cups-glxk-st",
             mobile: "https://sannerurl.com/cups-glxk-mo"
         },
         {
             title: "GalaxyBolt",
-            version: "0.56",
+            version: "0.55",
             image: "assets/imagens/CUPS17.png",
             steam: "https://sannerurl.com/cups-glxb-st",
             mobile: "https://sannerurl.com/cups-glxb-mo"
